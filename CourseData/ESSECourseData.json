@@ -1,0 +1,566 @@
+[
+    [
+        "ESSE 1011",
+        "Introduction to Atmospheric Science",
+        "The origin, composition and vertical structure of the Earth's atmosphere and those of other planets. The present global atmospheric circulation. Weather systems, measurements and weather maps; atmospheric chemistry; the ozone layer and atmospheric pollution. Five three-hour laboratory sessions. ",
+        [
+            "MATH 1515",
+            "PHYS 1510"
+        ]
+    ],
+    [
+        "ESSE 1012",
+        "The Earth Environment",
+        "Provides essential topics in Earth environment (Earth and oceanic science, atmospheric science, and geology) and explores the role played by global and local scale processes in shaping our planet. Concepts are described; the latest technology discussed, and links between engineering disciplines are provided. The course lectures are complemented by hands-on laboratory and field experience. ",
+        [
+            "MATH 1515",
+            "PHYS 1510",
+            "ENG 1101",
+            "ENG 1102",
+            "PHYS 1800",
+            "PHYS 1801"
+        ]
+    ],
+    [
+        "ESSE 1410",
+        "Natural, Technological and Human-induced Disasters",
+        "Examines the science and significance of natural, technological and human-induced disasters, providing an understanding of the physical and other processes that lead to disasters, and their results. Note: This course is not permitted for major credit by students who are Earth and Atmospheric Science program majors.",
+        []
+    ],
+    [
+        "ESSE 2012",
+        "Introduction to Dynamic Meteorology",
+        "An introduction to atmospheric dynamics on the global, synoptic, meso- and micro-scales, interpretation of weather maps, weather prediction and numerical models, convection, thunderstorms, tropical cyclones, and hurricanes. The course lectures are complemented by hands on laboratory experience. ",
+        [
+            "EECS 1541",
+            "MATH 1013",
+            "MATH 1014",
+            "PHYS 1010",
+            "PHYS 1410",
+            "PHYS 1800",
+            "PHYS 1801"
+        ]
+    ],
+    [
+        "ESSE 2030",
+        "Geophysics and Space Science",
+        "Seismic waves, earthquake fault plane solutions, tectonics on a sphere, geochronology, paleomagnetism, Earth's magnetic field, its origin and deformation by solar winds. VLBI measurements of fluctuations of Earth rotation, gravitational perturbations of satellite orbits, planetary exploration and communications issues. ",
+        [
+            "MATH 1014",
+            "PHYS 1800",
+            "PHYS 1801",
+            "PHYS 1010",
+            "PHYS 1410",
+            "MATH 1014",
+            "PHYS 1010",
+            "PHYS 1410"
+        ]
+    ],
+    [
+        "ESSE 2210",
+        "Engineering and the Environment",
+        "This course surveys a variety of Canadian case studies in environmental sustainability from an engineering perspective. The goal of this course is to provide students with exposure to the social aspects of large infrastructure projects, including the environmental assessment and stakeholder consultation processes. Climate change mitigation and adaptation are strong themes of this course.",
+        []
+    ],
+    [
+        "ESSE 2220",
+        "Algorithmic and Computational methods for Geomatics and Space Engineering",
+        "This course provides a basis for the design, development and implementation of computational algorithmic methods specifically for applied geomatics and space engineering applications and trains students to obtain essential skills in algorithmic development for problem solving through the usage of commonlyused industry software tools and programming language(s), and mathematical and statistical algorithms. Examples and applications explored come from the broad common interests in Space Science & Engineering, and Geomatics Science & Engineering. Pre-requisite(s): LE/ENG 1102 4.00, LE/EECS 1021 3.00, SC/MATH 1014 3.00, SC/MATH 1025 3.00; SC/PHYS 1801 3.00. ",
+        []
+    ],
+    [
+        "ESSE 2361",
+        "Space Systems Engineering",
+        "The objective of this course is to provide the student with an introduction to systems engineering with an emphasis on the following topics: the systems engineering process, requirements, design fundamentals, subsystem fundamentals, trade studies, integration, technical reviews, and case studies. The course is also intended to prepare the student for the payload/mission design courses (LE/ESSE 4360 3.00 and LE/ESSE 4361 3.00) which are more application oriented.",
+        []
+    ],
+    [
+        "ESSE 2470",
+        "Introduction to Continuum Mechanics",
+        "Introductory tensor algebra and calculus. Stress and strain analysis. Symmetry of stress tensor, equilibrium conditions. Lagrangian and Eulerian descriptions of strain. Physical interpretation of stress, strain and strain rate tensors. Conservation laws in continua. Consistency and compatibility considerations. Constitutive relations. ",
+        [
+            "EECS 1011",
+            "MATH 1025",
+            "MATH 2015",
+            "PHYS 1800",
+            "PHYS 1801",
+            "PHYS 1010",
+            "PHYS 1410"
+        ]
+    ],
+    [
+        "ESSE 2615",
+        "Fundamentals of Geomatics Engineering",
+        "An introduction and overview of geomatics engineering. The topics discussed in the course provide the fundamentals of all aspects of geomatics engineering as a profession and includes illustrative examples and discussions with practicing geomatics engineers in the field. The course introduces the student to key concepts in geomatics including geodesy, surveying, remote sensing, navigation, mapping and spatial data analytic. The skillsets required of geomatics engineers are investigated. Written and oral technical communication skills are emphasized. ",
+        [
+            "ESSE 1012",
+            "MATH 1025",
+            "EECS 1021",
+            "PHYS 1801"
+        ]
+    ],
+    [
+        "ESSE 2620",
+        "Fundamentals of Surveying",
+        "Coordinate systems, conventions and transformations. First and second geodetic problems: trig sections, traverses, areas, volumes. Basics of random error theory and error propagation. Basics of map projection. Distance measurements, angular measurements, and heights. Topographic mapping and property surveys. Route surveying. Construction surveying. Introduction to other surveys: alignment surveys for buildings, bridges, dams, tunnels, and pipelines. ",
+        [
+            "ESSE 1012",
+            "MATH 1014",
+            "MATH 1025",
+            "MATH 1021"
+        ]
+    ],
+    [
+        "ESSE 2640",
+        "Measurements and Least Squares Estimation",
+        "Observables, observations, parameters and mathematical models. Random errors in measurements. Error propagation. The least squares principle and applications. Hypothesis tests. ",
+        [
+            "MATH 1025",
+            "MATH 1014",
+            "MATH 2015",
+            "MATH 2930",
+            "MATH 2565",
+            "GEOG 2420",
+            "EECS 1021",
+            "EECS 1541"
+        ]
+    ],
+    [
+        "ESSE 3020",
+        "Global Geophysics and Geodesy",
+        "Studies of isostatic equilibrium and glacial rebound; seismic tomography and spherical harmonic representation of gravity and the geoid; Earth rotation and geodesy; geothermal heat flow and mantle convection. ",
+        [
+            "ESSE 2030",
+            "ESSE 2470",
+            "PHYS 2010",
+            "MATH 2015",
+            "MATH 2271",
+            "PHYS 2020"
+        ]
+    ],
+    [
+        "ESSE 3030",
+        "Atmospheric Radiation and Thermodynamics",
+        "Applications of basic thermodynamic principles to dry and moist atmospheric situations. Solar (short wave) and terrestrial (long wave) radiation with respect to absorption and scattering processes involving atmospheric atoms, molecules, aerosol particles and clouds. ",
+        [
+            "MATH 2015",
+            "MATH 2271",
+            "PHYS 1010",
+            "PHYS 1410",
+            "PHYS 1420"
+        ]
+    ],
+    [
+        "ESSE 3040",
+        "Atmospheric Dynamics I",
+        "Dynamics of large-scale weather systems. Development of the equations of motion, geostrophy, thermal wind, vorticity and divergence, Ekman layers and the quasi-geostrophic theory. ",
+        [
+            "ESSE 2010",
+            "ESSE 2470",
+            "PHYS 2010",
+            "MATH 2015",
+            "MATH 2271",
+            "EATS 2010",
+            "EATS 2470",
+            "PHYS 2010",
+            "MATH 2015",
+            "MATH 2271",
+            "EATS 2010",
+            "EATS 2470",
+            "PHYS 2010",
+            "MATH 2015",
+            "MATH 2271"
+        ]
+    ],
+    [
+        "ESSE 3130",
+        "Introductory Atmospheric Chemistry",
+        "An introductory course linking chemistry and atmospheric science. Topics include atmospheric evolution; biogeochemical cycles; sources, transformations and sinks of atmospheric species; human impacts such as acid rain, photochemical smog and depletion of the ozone layer. ",
+        [
+            "CHEM 1000",
+            "CHEM 1001",
+            "MATH 1010",
+            "MATH 1014",
+            "MATH 1310",
+            "MATH 1505"
+        ]
+    ],
+    [
+        "ESSE 3280",
+        "Physics of the Space Environment",
+        "An introduction to the physical processes of the upper atmosphere, the ionosphere, the magnetosphere and the heliosphere, and the interactions that occur with space vehicles that traverse these regions of space. ",
+        [
+            "PHYS 2020",
+            "MATH 2271"
+        ]
+    ],
+    [
+        "ESSE 3330",
+        "Materials for Space Applications",
+        "This course covers the behavior of materials relevant to the engineering of spacecraft. Material responses to thermal, mechanical, vacuum, electrical and ionizing radiation stresses are discussed. Engineering analysis tools and environment models are also covered. ",
+        [
+            "CHEM 1100",
+            "PHYS 2020"
+        ]
+    ],
+    [
+        "ESSE 3360",
+        "Heat Transfer and Thermal Design",
+        "This course covers the fundamentals of heat transfer and thermodynamics, the methods and tools for thermal control and design, and their application in space engineering. ",
+        [
+            "MATH 2271",
+            "CHEM 1100",
+            "PHYS 1801"
+        ]
+    ],
+    [
+        "ESSE 3600",
+        "Geographical Information Systems (GIS) and Spatial Analysis",
+        "Fundamentals of geographic information systems (GIS) and spatial analysis. Functional requirements of GIS. Geopositioning, map projections, coordinate systems and transformations. Data sources. Modelling of real world, spatial and attribute data. Vector and raster data models and structures. Data conversion and integration. Topological relationships and structures. Data processing and spatial analysis. Editing and data quality. Data management and spatial database structures. Visualization of spatial data. Introduction to GIS modelling. ",
+        [
+            "ESSE 1010",
+            "ESSE 1012",
+            "EECS 1011",
+            "EECS 1541",
+            "MATH 1014",
+            "MATH 1025",
+            "MATH 2930",
+            "MATH 2565",
+            "GEOG 2420",
+            "spatial modelli",
+            "EECS 1540",
+            "EECS 1030",
+            "EECS 1520",
+            "MATH 2560",
+            "GEOG 2420",
+            "GEOG 2420",
+            "MATH 1131",
+            "MATH 1025",
+            "MATH 1013",
+            "ESSE 1010",
+            "ESSE 1011",
+            "ESSE 2030",
+            "GEOG 1400",
+            "GEOG 1400"
+        ]
+    ],
+    [
+        "ESSE 3610",
+        "Geodetic Concepts",
+        "Date Submission: 2017-12-05 Geodesy. Reference systems, frames and datums; time systems; the natural system of coordinates; terrestrial, celestial and orbital coordinate systems. Coordinate system transformations. Relative three dimensional positioning; the inertial frame of reference. Positions on the ellipsoid and mapping plane. Height systems. ",
+        [
+            "ESSE 2615",
+            "ESSE 2620",
+            "MATH 2015",
+            "ESSE 3620"
+        ]
+    ],
+    [
+        "ESSE 3630",
+        "Analysis of Overdetermined Systems",
+        "Functional models of measurements. Statistical testing and assessment of observations, parameters and mathematical models. Optimal design. Generalized least squares problems with constraints and singularities, step-by-step procedures. Application in control networks. ",
+        [
+            "ESSE 2640",
+            "ESSE3610"
+        ]
+    ],
+    [
+        "ESSE 3640",
+        "Geodetic Surveys",
+        "Date Submission: December 5, 2018 Instrument systems and procedures for high-precision/accuracy geodetic surveys. ISO Standard 17123. High-precision surveys in engineering physics; geodetic network densification, adjustment and analysis; procedures for deformation surveys and strain analysis. Establishment, observation, adjustment and analysis of control networks for construction and monitoring of large engineering structures. ",
+        [
+            "ESSE 2620",
+            "ESSE 2630",
+            "ESSE 3610",
+            "ESSE 3620",
+            "ESSE 3630"
+        ]
+    ],
+    [
+        "ESSE 3650",
+        "Photogrammetry",
+        "Date submission: December 5, 2018 Object metric information from imagery. Image and object space. Coordinate transformations. Measurement and correction of image coordinates. Collinearity and coplanarity conditions. Orientation procedures. Stereo-model. Independent models, bundle, strip and block photogrammetric triangulation. Sensor pose estimation. Digital photogrammetry and 3D reconstruction. Structure from Motion and dense image point matching. Image rectification. DEM and orthoimage generation. UAV and close-range photogrammetry. Project planning. Applications. ",
+        [
+            "ESSE 2615",
+            "ESSE 2640",
+            "EECS 1011",
+            "EECS 1541"
+        ]
+    ],
+    [
+        "ESSE 3670",
+        "Global Navigation Satellite Systems",
+        "Satellite-based positioning, navigation and timing. Spatial and temporal reference systems. Orbital mechanics. GNSS signal structure, hardware, observables, and error sources. GNSS point positioning, relative positioning, and augmentation techniques. GNSS / inertial integration. GNSS evolution and applications. ",
+        []
+    ],
+    [
+        "ESSE 4000",
+        "Research Project",
+        "A major written report or thesis on field measurements, laboratory research or computer modelling in the Earth or atmospheric sciences. Work is supervised by a faculty member. Open to exceptional students. Note: Permission of the department Chair is required.",
+        []
+    ],
+    [
+        "ESSE 4000",
+        "Research Project",
+        "A major written report or thesis on field measurements, laboratory research or computer modelling in the Earth or atmospheric sciences. Work is supervised by a faculty member. Open to exceptional students. Note: Permission of the department Chair is required.",
+        []
+    ],
+    [
+        "ESSE 4020",
+        "Time Series and Spectral Analysis",
+        "Treatment of discrete sampled data involving correlation, convolution, spectral density estimation, frequency, domain filtering, and Fast Fourier Transforms. ",
+        [
+            "EECS 1011",
+            "MATH 2015",
+            "MATH 2271",
+            "CSE 1540",
+            "CSE 1540",
+            "MATH 2015",
+            "MATH 2271"
+        ]
+    ],
+    [
+        "ESSE 4110",
+        "Dynamics of Space Vehicles",
+        "This course presents a coherent and unified framework for mathematical modeling and analysis of space vehicles. The course can be divided into two main parts: orbit dynamics and attitude dynamics and control. The topics covered by this course include two-body problem, coordinate transformation, orbital elements, perturbation theory, orbital maneuvers, relative motion and rendezvous, interplanetary trajectories, rocket dynamics, and attitude dynamics and control. Spacecraft dynamics and control problems of practical interests are treated from a dynamical systems point of view. This course will focus on a comprehensive treatment of spacecraft dynamics and control problems and their practical solutions. ",
+        [
+            "PHYS 2010",
+            "ESSE 2470",
+            "MATH 2271"
+        ]
+    ],
+    [
+        "ESSE 4120",
+        "Cloud Physics and Radar Meteorology",
+        "Thermodynamics of cloud processes. Buoyancy and convection. Weather radar. Storms and associated precipitation. Cloud droplet formation and growth of ice crystals. Snow, graupel and hail. Microphysical processes and climate. ",
+        [
+            "ESSE 3030",
+            "EATS 3030",
+            "EATS 3030"
+        ]
+    ],
+    [
+        "ESSE 4160",
+        "Climate and Climate Change",
+        "This course surveys key physical and dynamical processes responsible for both the natural variability in Earth climate, as well as recent anthropogenic climate change. Models of global atmospheric and oceanic circulation and derived reanalysis datasets. Impacts of recent and future climate change, as well as potential mitigation and adaptation strategies, are discussed. ",
+        [
+            "ESSE 2010",
+            "ESSE 3040"
+        ]
+    ],
+    [
+        "ESSE 4220",
+        "Remote Sensing of the Earth's Surface",
+        "Date Submission: December 5, 2017 Principles used in extracting physical information about the Earth's surface using remote sensing. Remote sensing in the visible, short-wave infrared, thermal infrared and microwave regions is discussed in terms of potential applicability to forestry, agriculture, water resources and geology. Two lecture hours, three laboratory hours. One term. Three credits. ",
+        [
+            "PHYS 2020",
+            "EECS 1021",
+            "EECS 1541"
+        ]
+    ],
+    [
+        "ESSE 4230",
+        "Remote Sensing of the Atmosphere",
+        "An introduction to and summary of the area of remote sensing of the atmosphere from space platforms and from the ground. Topics include atmospheric radiation, atmospheric spectroscopy, inversion theory, instrumentation, satellites, space platforms and future technology. ",
+        [
+            "ESSE 2010",
+            "PHYS 2060",
+            "MATH 1025",
+            "MATH 2015",
+            "MATH 2271",
+            "ESSE 3030",
+            "EATS 2010",
+            "PHYS 2060",
+            "MATH 1025",
+            "MATH 2015",
+            "MATH 2271",
+            "EATS 3030",
+            "EATS 2010",
+            "PHYS 2060",
+            "MATH 1025",
+            "MATH 2015",
+            "MATH 2271",
+            "EATS 3030"
+        ]
+    ],
+    [
+        "ESSE 4240",
+        "Storms and Weather Systems",
+        "The study of mesoscale circulations and precipitating storm systems. Basic governing equations and instabilities. Nature and evolution of isolated convection, thunderstorms, mesoscale convective systems, precipitation bands, extratropical cyclones, fronts and frontogenesis, hurricanes, blizzards, polar lows and orographic storms. ",
+        [
+            "ESSE 3040",
+            "ESSE 4120",
+            "EATS 3040",
+            "EATS 4120",
+            "EATS 3040",
+            "EATS 4120"
+        ]
+    ],
+    [
+        "ESSE 4350",
+        "Space Hardware",
+        "Explores the theoretical, practical and experimental techniques needed to acquire and manipulate typical signals used in spacecraft system operations or integration and testing. Three laboratory hours and two lecture hours per week. ",
+        [
+            "PHYS 3150",
+            "PHYS 3250"
+        ]
+    ],
+    [
+        "ESSE 4360",
+        "Payload Design",
+        "This course provides students with a comprehensive and accurate approach for the specification and detailed design of different spacecraft payloads, including optical payload, microwave payload, communications payload, and planetary exploration payload. Reliability analysis and its application will also be covered for space systems. Payload design projects will be assigned to students during the course. Three lecture hours per week. ",
+        [
+            "ENG 2001",
+            "ESSE 3280"
+        ]
+    ],
+    [
+        "ESSE 4361",
+        "Space Mission Design",
+        "This course covers the basic aspects of space mission design from a \"blank sheet\". It includes mission design structure using systems engineering approaches to the design problem. Mission design starts with a set of mission objectives and aims to develop a viable solution for meeting these objectives given a set of technical cost and programmatic constraints. This course brings together systems engineering, mission types, objectives, technical readiness, risk mitigation, mission subsystems, and cost estimation. ",
+        [
+            "ESSE 4360"
+        ]
+    ],
+    [
+        "ESSE 4370",
+        "Finite Element Methods in Engineering Design",
+        "Basic principles of finite element method, variational and weighed residual principle procedures in discretizing and building up governing equations of physical models. Use of industrial FEM codes to understand model response to external effects such as stress, heat, vibration, and fluids. ",
+        [
+            "MATH 2271",
+            "ESSE 2470"
+        ]
+    ],
+    [
+        "ESSE 4600",
+        "Geographical Information Systems (GIS) and Data Integration",
+        "Project-oriented geomatics course using GIS systems (Arc/Info and S-PLus or SPSS for UNIX) and various techniques (map algebraic, statistical, fuzzy logic, AI, neural network and fractal/multifractal) for integrating diverse dataset (geological, geophysical, geochemical, remote sensing and GPS). ",
+        [
+            "ESSE 3600",
+            "GEOG 3180",
+            "GEOG 3180",
+            "GEOG 4340",
+            "GEOG 4340",
+            "ENVS 3520",
+            "ENVS 4520",
+            "EATS 3300",
+            "GEOG 3180",
+            "GEOG 3180",
+            "GEOG 4340",
+            "GEOG 4340",
+            "ENVS 3520",
+            "ENVS 4520",
+            "EATS 3300",
+            "GEOG 3180",
+            "GEOG 3180",
+            "GEOG 4340",
+            "GEOG 4340",
+            "ENVS 3520",
+            "ENVS 4520"
+        ]
+    ],
+    [
+        "ESSE 4620",
+        "Physical and Space Geodesy",
+        "Local treatment of the Earth's gravity field. Boundary value problems. Normal and disturbing potential, the normal gravity formula. Geoid, geoidal undulations, deflections of the vertical. Stokes and Vening Meinesz formulae. Gravimetry and gravity reductions. Height systems. Tides. Gravity space missions. ",
+        [
+            "ESSE 3020",
+            "ESSE 3610",
+            "ESSE 3620",
+            "ESSE 4610",
+            "EATS 3020",
+            "EATS 3610",
+            "ENG 3110",
+            "EATS 3620",
+            "ENG 3120",
+            "EATS 4610",
+            "ENG 4110",
+            "EATS 3020",
+            "EATS 3610",
+            "ENG 3110",
+            "EATS 3620",
+            "ENG 3120",
+            "EATS 4610",
+            "ENG 4110"
+        ]
+    ],
+    [
+        "ESSE 4630",
+        "Image Processing for Remote Sensing and Photogrammetry",
+        "Digital imaging from remote platforms. Image processing and analysis, including radiometric and geometric corrections and geometric enhancements, multispectral classification, digital photogrammetry fundamentals, workstations, photogrammetric processing. ",
+        [
+            "ESSE 3650",
+            "ESSE 4220",
+            "EATS 3650",
+            "ENG 3150",
+            "EATS 4220",
+            "EATS 3650",
+            "ENG 3150",
+            "EATS 4220"
+        ]
+    ],
+    [
+        "ESSE 4640",
+        "Digital Terrain Modeling",
+        "Digital Terrain Modeling (DTM) concepts. Mathematical techniques in data acquisition, processing, storage, manipulation and applications. DTM. Surface representation using moving averages, linear projection and Kriging techniques. Grid resampling methods and search algorithms. DTM derivatives and applications. LIDAR systems and applications. ",
+        [
+            "ESSE 2620",
+            "ESSE 3620",
+            "EATS 2620",
+            "ENG 2110",
+            "EATS 3620",
+            "ENG 3110",
+            "EATS 2620",
+            "ENG 2110",
+            "EATS 3620",
+            "ENG 3110"
+        ]
+    ],
+    [
+        "ESSE 4650",
+        "Hydrography",
+        "Hydrography and its role in offshore management. Elements of oceanography, tides and water levels, seabed and sea water properties. Underwater acoustics. Bathymetric and imaging methods. Marine positioning and navigation. ",
+        [
+            "ESSE 4610",
+            "EATS 4610",
+            "ENG 4110",
+            "EATS 4610",
+            "ENG 4110"
+        ]
+    ],
+    [
+        "ESSE 4660",
+        "Cadastral Studies",
+        "Land and interests in land including how rights to land are owned, tenure and estates and lesser interests and how rights to land are transferred. The Canadian Legal System, including case law and precedent; common law; Civil Law in Quebec; principles of evidence; Expert and lay witnesses; Estoppel; Constitution Act; Limitation of actions; Easements and rights of ways; Statutory rights of way (or rights of way without a dominant tenement): Exceptions and reservations; Covenants, Adverse possession; Dedication of roads; Expropriation; Escheat, The link between the land surveyor and the law of real property. Concepts of boundaries including the nature of a boundary, creation and elimination of boundaries and the movement of boundaries. Subdivisions and consolidations. Bornage in Quebec. Retracement and reestablishment of lost or obliterated boundaries; Resolution of boundary uncertainty; Hierarchy of evidence; Jurisdictional boundaries. ",
+        [
+            "ESSE 2620"
+        ]
+    ],
+    [
+        "ESSE 4670",
+        "Survey Law",
+        "Registering rights to land including land registration systems, the concept of indefeasibility and title insurance, modern registration using databases. Descriptions of land. Natural Boundaries, Water boundaries; Riparian and littoral rights; High and low water mark; Ad medium filum aquae: Erosion, accretion and avulsion; Excavation and fill adjacent to natural boundaries; Navigable waters and determination of navigability; Boundaries defined by artificial lines; Subdivisions; Condominiums (including boundaries, common property, administrative framework, structure, fees and governance); Strata plans; Air Space plans; Mineral interests, Mining, placer claims and claim staking; Petroleum and natural gas interests, Well site leases; Special surveys. Function of professional regulators; Purpose of codes of ethics and standards; Negligence; Disciplinary process; Common causes for disciplinary actions. Role of coordinates in retracement and as evidence; Surveys of parcels under a land registry system and under a land titles system. Offshore boundaries and maritime zones; Leases at sea. The offshore including maritime zones and international boundaries and the law of the sea. The Cadastre. Indigenous title and land claims. ",
+        [
+            "ESSE 4660"
+        ]
+    ],
+    [
+        "ESSE 4690",
+        "Advanced 3D Geospatial Techniques",
+        "Advanced 3D geospatial techniques for data extraction from imaging and ranging sensors (optical, radar and lidar), 3D modeling, 3D data management and Internet mapping using emerging and multidisciplinary technologies in 3D geospatial information science and engineering. ",
+        [
+            "ESSE 3600",
+            "ESSE 3650",
+            "ENG 3150",
+            "ENVS 4521",
+            "EATS 3300",
+            "EATS 3650",
+            "ENG 3150",
+            "ENVS 4521",
+            "EATS 3300",
+            "EATS 3650",
+            "ENG 3150",
+            "ENVS 4521"
+        ]
+    ]
+]

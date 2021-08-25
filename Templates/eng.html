@@ -1,0 +1,64 @@
+{% extends "base.html" %}
+{% block title %} {{major}} {% endblock %}
+
+
+{% block courseCols %}
+
+{% if CourseData == None %}
+
+{% for year in "1234" %}
+<div class="col">
+    <ul class="list-group">
+        {% for course in cList %}
+
+        {% set hrefValue = "/" + major + "/" + course.replace(' ', "-") %}
+
+        {% if year == course[course.index(' ')+1] %}
+        <li class="list-group-item"> <a href={{hrefValue}}> {{course}} </a>
+        </li>
+        {% endif %}
+
+        {% endfor %}
+    </ul>
+</div>
+{% endfor %}
+
+
+{% else %}
+
+{% for year in "1234" %}
+<div class="col">
+    <ul class="list-group">
+        {% for course in cList %}
+        {% set hrefValue = "/" + major + "/" + course.replace(' ', "-") %}
+        {% if (year == course[course.index(' ')+1] ) and (course in CourseData[3]) %}
+        <li class="list-group-item active" aria-current="true"> <a href={{hrefValue}}> {{course}} </a> </li>
+
+        {% elif year == course[course.index(' ')+1] %}
+        <li class="list-group-item"> <a href={{hrefValue}}> {{course}} </a>
+        </li>
+
+        {% endif %}
+
+        {% endfor %}
+    </ul>
+</div>
+{% endfor %}
+
+{% if CourseInfo != None %}
+<div class="card" style="width: 18rem;">
+    <div class="card-body">
+        <h5 class="card-title"> {{CourseData[0]}} </h5>
+        <h6 class="card-subtitle mb-2 text-muted"> {{CourseData[1]}} </h6>
+        <p class="card-text"> {{CourseData[2]}} </p>
+
+        {% for prereq in CourseData[3] %}
+        <h6 class="card-subtitle mb-2 text-muted"> {{prereq}} </h6>
+        {% endfor %}
+    </div>
+</div>
+{% endif %}
+
+{% endif %}
+
+{% endblock %}
