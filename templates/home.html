@@ -1,0 +1,91 @@
+{% extends "base.html" %}
+{% block title %} Home {% endblock %}
+{% block courseCols %}  
+
+<div class="container-fluid">
+
+    <div class="row">
+
+      <div class="col">
+        <h1 class="display-5">ABOUT</h1>
+      </div>
+
+      <div class="col">
+        <p class="lead">Easily find the prerequisites of the courses you're planning on taking with a click of a button.</p>
+      </div>
+
+    </div>
+
+    <hr />
+
+    <div class="row">
+
+      <div class="col">
+        <h1 class="display-5">FAQ</h1>
+      </div>
+
+      <div class="col">
+        
+        <div class="accordion" id="accordionExample">
+            <div class="accordion-item">
+              <h2 class="accordion-header" id="headingOne">
+                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="false" aria-controls="collapseOne">
+                  Is this an official site from YorkU?
+                </button>
+              </h2>
+              <div id="collapseOne" class="accordion-collapse collapse" aria-labelledby="headingOne" data-bs-parent="#accordionExample">
+                <div class="accordion-body">
+                  <strong>No</strong>, this website was created Walid AlDari, an undergraduate SE student, and was not instructed nor sponsored by York University to create this website. This was simply a side project created to make engineers' lives less miserable.
+                </div>
+              </div>
+            </div>
+            <div class="accordion-item">
+              <h2 class="accordion-header" id="headingTwo">
+                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+                  Is the course info updated frequently?
+                </button>
+              </h2>
+              <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#accordionExample">
+                <div class="accordion-body">
+                  <strong>Prerequisite info on this site will be updated at start of every summer</strong>, therefore any updates to course info that occur over the course of the fall/winter/remaining summer will not be applied to this website. 
+                </div>
+              </div>
+            </div>
+            <div class="accordion-item">
+              <h2 class="accordion-header" id="headingThree">
+                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+                  There is an error or a missing prerequisite for one of the courses, when will it be fixed?
+                </button>
+              </h2>
+              <div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingThree" data-bs-parent="#accordionExample">
+                <div class="accordion-body">
+                  <strong>Please fill up the form in the "Report" section of the site</strong> which is found in far left of the navigation bar, and then the error will be fixed asap.
+                </div>
+              </div>
+            </div>
+          </div>
+
+      </div>
+
+    </div>
+
+    <hr />
+
+    <div class="row">
+
+        <div class="col">
+          <h1 class="display-5">Contact Developer</h1>
+        </div>
+  
+        <div class="col">
+          <p class="lead">Walid AlDari</p>
+          <a href="https://github.com/walido2001" class="fa fa-github" style="font-size: 7vw;"></a>
+          <a href="www.linkedin.com/in/walidald" class="fa fa-linkedin" style="font-size: 7vw;"></a>
+        </div>
+  
+      </div>
+
+    <hr />
+  </div>
+
+{% endblock %}
