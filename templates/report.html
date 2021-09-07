@@ -1,0 +1,48 @@
+{% extends "base.html" %}
+
+{% block title %} Report Form {% endblock %}
+
+{% block courseCols %}
+
+<div class="container">
+
+    <div class="row">
+        
+        <label for="name_form" class="col-sm-2 col-form-label">Full Name</label>
+        <div class="col-sm-4">
+            <input type="name" class="form-control" id="name_form" placeholder="John Smith">
+        </div>
+        
+    </div>
+
+
+    <div class="row">
+
+        <label for="email_form" class="col-sm-2 col-form-label">Email</label>
+        <div class="col-sm-4">
+            <input type="email" class="form-control" id="email_form" placeholder="name@example.com">
+        </div>
+        
+    </div>
+
+    <div class="row">
+
+        <label for="description_form" class="col-form-label">Description of the Error</label>
+        <div class="col-sm-6">
+            <textarea class="form-control" aria-label=""></textarea>
+        </div>
+        
+
+    </div>
+
+</div>
+    
+
+    
+
+
+    
+
+
+
+{% endblock %}

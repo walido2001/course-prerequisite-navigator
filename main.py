@@ -178,6 +178,9 @@ def mechanical_page_link(course):
 
     return render_template("eng.html", cList=courseCheckList, CourseData=CourseInfo, major="mechanical")
 
+@app.route('/report')
+def report_page():
+    return render_template("report.html")
 
 @app.errorhandler(500)
 def server_error(e):
