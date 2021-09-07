@@ -4,45 +4,41 @@
 
 {% block courseCols %}
 
-<div class="container">
-
-    <div class="row">
-        
-        <label for="name_form" class="col-sm-2 col-form-label">Full Name</label>
-        <div class="col-sm-4">
-            <input type="name" class="form-control" id="name_form" placeholder="John Smith">
-        </div>
-        
+<form class="row g-3">
+    <div class="col-md-6">
+      <label for="inputName" class="form-label">Name</label>
+      <input type="text" class="form-control" id="inputName" placeholder="Walid AlDari">
     </div>
-
-
-    <div class="row">
-
-        <label for="email_form" class="col-sm-2 col-form-label">Email</label>
-        <div class="col-sm-4">
-            <input type="email" class="form-control" id="email_form" placeholder="name@example.com">
-        </div>
-        
+    <div class="col-md-6">
+      <label for="inputEmail4" class="form-label">Email</label>
+      <input type="email" class="form-control" id="inputEmail4" placeholder="walidAD@gmail.com">
     </div>
+    
+    <div class="col-md-6">
+        <label for="inputCourse" class="form-label">Course Code</label>
+        <input type="text" class="form-control" id="inputCourse" placeholder="PSYC 1010">
+      </div>
+      <div class="col-md-6">
+        <label for="inputType" class="form-label">Engineering Type</label>
+        <select id="inputType" class="form-select">
+            <option selected>Bug found in:</option>
+            <option value="mechanical">Mechanical</option>
+            <option value="electrical">Electrical</option>
+            <option value="aerospace">Aerospace</option>
+            <option value="civil">Civil</option>
+            <option value="computer">Computer</option>
+            <option value="software">Software</option>
+        </select>
+      </div>
 
-    <div class="row">
-
-        <label for="description_form" class="col-form-label">Description of the Error</label>
-        <div class="col-sm-6">
-            <textarea class="form-control" aria-label=""></textarea>
-        </div>
-        
-
+    <div class="col-12">
+      <label for="inputAddition" class="form-label">Anything else to add?</label>
+      <input type="text" class="form-control" id="inputAddition" placeholder="The world is on the verge of collapse and so I wanted to let you know this button doesn't work">
     </div>
-
-</div>
     
-
+    <div class="col-12">
+      <button type="submit" class="btn btn-primary">Submit bug report</button>
+    </div>
+  </form>
     
-
-
-    
-
-
-
 {% endblock %}
