@@ -4,40 +4,51 @@
 
 {% block courseCols %}
 
-<form class="row g-3">
+{% if errorStatus == True %}
+<div class="alert alert-danger" role="alert">
+  The bug report submission was unsuccessful, please make sure you fill all the fields, except for the description field which is optional
+</div>
+{% elif successStatus == True %}
+<div class="alert alert-success" role="alert">
+  Bug Report successfully recieved, thank you for taking the time to fill the form.
+</div>
+
+{% endif %}
+
+<form class="row g-3" action="#" method="post">
     <div class="col-md-6">
       <label for="inputName" class="form-label">Name</label>
-      <input type="text" class="form-control" id="inputName" placeholder="Walid AlDari">
+      <input type="text" class="form-control" id="inputName" name = "inputName" placeholder="John Smith">
     </div>
     <div class="col-md-6">
-      <label for="inputEmail4" class="form-label">Email</label>
-      <input type="email" class="form-control" id="inputEmail4" placeholder="walidAD@gmail.com">
+      <label for="inputEmail" class="form-label">Email</label>
+      <input type="email" class="form-control" id="inputEmail" name = "inputEmail" placeholder="smith@yourmomshouse.com">
     </div>
     
     <div class="col-md-6">
         <label for="inputCourse" class="form-label">Course Code</label>
-        <input type="text" class="form-control" id="inputCourse" placeholder="PSYC 1010">
+        <input type="text" class="form-control" id="inputCourse" name = "inputCourse" placeholder="PSYC 1010">
       </div>
       <div class="col-md-6">
         <label for="inputType" class="form-label">Engineering Type</label>
-        <select id="inputType" class="form-select">
-            <option selected>Bug found in:</option>
-            <option value="mechanical">Mechanical</option>
-            <option value="electrical">Electrical</option>
-            <option value="aerospace">Aerospace</option>
-            <option value="civil">Civil</option>
-            <option value="computer">Computer</option>
-            <option value="software">Software</option>
+        <select id="inputType" name="inputType" class="form-select">
+            <option selected value = "">Bug found in:</option>
+            <option value="Mechanical">Mechanical</option>
+            <option value="Electrical">Electrical</option>
+            <option value="Aerospace">Aerospace</option>
+            <option value="Civil">Civil</option>
+            <option value="Computer">Computer</option>
+            <option value="Software">Software</option>
         </select>
       </div>
 
     <div class="col-12">
       <label for="inputAddition" class="form-label">Anything else to add?</label>
-      <input type="text" class="form-control" id="inputAddition" placeholder="The world is on the verge of collapse and so I wanted to let you know this button doesn't work">
+      <input type="text" class="form-control" id="inputAddition" name="inputAddition" placeholder="The world is on the verge of collapse and so I wanted to let you know this button doesn't work">
     </div>
     
     <div class="col-12">
-      <button type="submit" class="btn btn-primary">Submit bug report</button>
+      <button type="submit" value="submit" class="btn btn-primary">Submit bug report</button>
     </div>
   </form>
     

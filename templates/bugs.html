@@ -1,0 +1,25 @@
+{% extends "base.html" %}
+{% block title %} Bugs List {% endblock %}
+
+{% block courseCols %}
+
+
+<div class="row row-cols-auto g-2">
+
+
+{% for bug in bugsList %}
+<div class="card" style="width: 18rem;">
+  <div class="card-body">
+    <h5 class="card-title">{{bug[2]}}</h5>
+    <h6 class="card-subtitle mb-2 text-muted">{{bug[3]}}</h6>
+    <p class="card-text">{{bug[5]}}</p>
+    <a class="card-link">{{bug[0]}}</a>
+    <a href={{ "mailto:"+bug[1] }} class="card-link">@</a>
+  </div>
+</div>
+{% endfor %}
+
+</div>
+
+
+{% endblock %}
