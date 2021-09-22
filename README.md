@@ -1,5 +1,5 @@
 # course-prerequisite-navigator
-Flask app that displays course prerequisites in a quick manner.
+Flask app that allows the user to quickly view course prerequisites
 # Site Link
 Site is already published and can be accessed through this link: http://eng-trees.nn.r.appspot.com
 # Languages/Frameworks Used
