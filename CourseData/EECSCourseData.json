@@ -1,1 +1,934 @@
-[["EECS 1001", "Research Directions in Computing", "An introduction to research directions within the department and more broadly within the field. Students will attend lectures and other events organised by the department. Note: This course is expected to be completed in the first-year of study.", []], ["EECS 1011", "Computational Thinking through Mechatronics", "The Objectives of 1011 are threefold: providing a first exposure to procedural programming, teaching students a set of soft computing skills (such as reasoning about algorithms, tracing programs, test-driven development), and demonstrating how computers are used in a variety of engineering disciplines. It uses problem-based pedagogy to expose the underlying concepts and an experiential laboratory to implement them. An integrated computing environment (such as MATLAB) is used so that students can pick up key programming concepts(such as variables and control flow) without being exposed to complex or abstract constructs. The problems are chosen with consultation with the various engineering disciplines in the Faculty with a view of exposing how computing is used in these disciplines. ", []], ["EECS 1012", "Introduction to Computing: A Net-centric Approach", "The objectives of 1012 are threefold: providing a first exposure to event-driven programming, teaching students a set of computing skills (including reasoning about algorithms, tracing programs, test-driven development, unit testing), and providing an introduction to computing within a mobile, net-centric context. It uses problem-based approach to expose the underlying concepts and an experiential laboratory to implement them. A mature mobile software infrastructure (such as HTML, CSS, and JavaScript) is used so that students can pick up key programming concepts (such as variables and control flow) within a client-server context without being bogged down in complex or abstract constructs. Laboratory exercises expose students to a range of real-world problems with a view of motivating computational thinking and grounding the material covered in lecture. ", []], ["EECS 1015", "Introduction to Computer Science and Programming", "This course is an introduction to the concepts and tools of computer science as students learn a procedural subset of the Python programming language. Python has a variety of libraries in different domains allowing for the solution of interesting problems which has made it a popular language in industry and the academy. Students do hands-on work to design, write, debug and test computer programs that solve problems computationally. Students study variables, assignments, expressions (arithmetic, relational and logical) and sequencing of statements to implement solutions for computational problems, in Python. They document programs with comments and preconditions. They analyze the type correctness of programs via a type checker. They use an Integrated Development Environment (IDE) to develop, unit-test and debug programs given a problem specification. They apply conditionals (including nested conditionals) to implement algorithms to solve computational problems. They code functions to develop modular programming solutions for computational problems. They apply Python loops (including nested loops) to implement algorithms to solve computational problems. They apply data structures, including tuples, sets, lists and dictionaries, to implement algorithms to solve computational problems. They code simple recursive functions to implement algorithms to solve computational problems. ", []], ["EECS 1019", "Discrete Mathematics for Computer Science", "Introduction to abstraction. Use and development of precise formulations of mathematical ideas. Informal introduction to logic; introduction to na\u00efve set theory; induction; relations and functions; big O-notation; recursive definitions, recurrence relations and their solutions; graphs and trees. ", ["MATH 1190"]], ["EECS 1021", "Object Oriented Programming from Sensors to Actuators", "\"Introduces student to computational thinking - a process-based approach to problem solving. It uses a problem-based pedagogy to expose the underlying concepts and an experiential laboratory to implement them. The programming language is chosen so that it is widely used in a variety of applications, is object-oriented, and is of industrial strength (Java is an example of such a language). The problems are chosen in order to expose abstract programming concepts by immersing them in relevant and engaging applications. The experiential laboratory is based on sensors and actuators that connect to a computer. The problems are chosen with consultation with the various engineering disciplines in the Faculty with a view of exposing how computing is used in these disciplines. ", ["EECS1011"]], ["EECS 1022", "Programming for Mobile Computing", "Provides a first exposure to object-oriented programming and enhances student understanding of key computing skills such as reasoning about algorithms, designing user interfaces, and working with software tools. It uses problem-based approach to expose the underlying concepts and an experiential laboratory to implement them. A mature mobile software infrastructure (such as Java and the Android programming environment) is used to expose and provide context to the underlying ideas. Laboratory exercises expose students to a range of real-world problems with a view of motivating computational thinking and grounding the material covered in lectures. ", ["EECS 1012", "EECS 1015"]], ["EECS 1028", "Discrete Mathematics for Engineers", "An introduction to propositional logic and application to switching circuits; sets, relations and functions; predicate logic and proof techniques; induction with applications to program correctness; basic counting techniques with applications; graphs and trees with applications in circuit analysis, information storage and retrieval, Huffman coding; automata and applications in software engineering. ", []], ["EECS 1520", "Computer Use: Fundamentals", "An An introduction to the use of computers focusing on concepts of computer technology and organization (hardware and software) and the use of applications such as spreadsheets and information retrieval tools for problem solving. This course is designed for students who are not engineering or computer science majors. Students who plan to major in engineering or computer science are advised to take LE/EECS 1011 3.00 or LE/EECS 1012 3.00, respectively. ", []], ["EECS 1530", "Computer Use: Programming", "Concepts of computer systems and technology - e.g. software engineering, algorithms, programming languages, theory of computation. Practical work focuses on problem solving using a high-level programming language. The course requires extensive laboratory work. This course is designed for students who are not Computer Science majors, but may be used as preparation by those who wish to major in Computer Science but lack programming background. ", []], ["EECS 1540", "Computer Use for the Natural Sciences", "Introduction to problem solving using computers - top down and modular design; implementation in a procedural programming language - control structures, data structures, subprograms; application to simple numerical methods, modelling and simulation in the sciences; use of library subprograms. ", []], ["EECS 1541", "Introduction to Computing for the Physical Sciences", "An introduction to scientific computing using an integrated computing and visualization platform. Elements of procedural programming such as: control structures, data types, program modules. Visualization in two and three dimensions. Applications to numerical computation and simulations relevant to the physical sciences. ", ["MATH 1013", "PHYS 1010", "PHYS 1410", "PHYS 1420", "MATH 1021", "MATH 1025"]], ["EECS 1560", "Introduction to Computing for Mathematics and Statistics", "An introduction to scientific computing using an integrated computing and visualization environment. The course presents computer-based problem-solving techniques through a series of applications rooted in Mathematics and Statistics. ", ["MATH 1300", "MATH 1310", "MATH 1131", "MATH 2030"]], ["EECS 1570", "Introduction to Computing for Psychology", "An introduction to computing concepts with applications to problems drawn from psychology, including concepts of computer programming in an integrated computing and visualization environment. ", ["MATH 1505"]], ["EECS 1710", "Programming for Digital Media", "Introduction to program design and implementation focusing on digital media projects including sound, images, and animation; includes algorithms, simple data structures, control structures, and debugging techniques. ", []], ["EECS 1720", "Building Interactive Systems", "A second course teaching more advanced programming concepts within the context of image, sound and interaction using an object-oriented language; introduction to interactive systems, user interfaces, event-driven programming, object design and inheritance; implementation using debuggers, integrated development environments, user interface builders. ", ["EECS 1710"]], ["EECS 1910", "Industry Practicum", "This course is only available to students in the Industry Partnership Stream of the Computer Science Honours BSc (enrollment by permission). Students in the stream may enroll in the course during a term for which they are employed by the industrial partner. The learning outcomes of the course will be approved by the instructor prior to enrollment. ", []], ["EECS 1911", "Industry Practicum", "This course is only available to students in the Industry Partnership Stream of the Computer Science Honours BSc (enrollment by permission). Students in the stream may enroll in the course during a term for which they are employed by the industrial partner. The learning outcomes of the course will be approved by the instructor prior to enrollment. ", []], ["EECS 2001", "Introduction to the Theory of Computation", "Introduction to the theory of computing, including automata theory, formal languages and Turing machines; theoretical models and their applications in various fields of computer science. The emphasis is on practical applications of the theory and concepts rather than formal rigour. ", ["EECS 1021", "EECS 1022", "EECS 1720", "EECS 1030", "EECS 1028", "MATH 1028", "EECS 1019", "MATH 1019", "CSE 2001", "CSE 2001"]], ["EECS 2011", "Fundamentals of Data Structures", "A study of fundamental data structures and their use in the efficient implementation of algorithms. Topics include abstract data types, lists, stacks, queues, trees and graphs. ", ["EECS 1030", "EECS 2030", "EECS 1028", "MATH 1028", "EECS 1019", "MATH 1019", "CSE 2011", "or system invarian"]], ["EECS 2021", "Computer Organization", "Introduction to computer organization and instruction set architecture, covering assembly language, machine language and encoding, addressing modes, single/multicycle datapaths (including functional units and controls), pipelining, memory segments and memory hierarchy. ", ["EECS 1021", "EECS 1022", "EECS 1720", "EECS 1030", "CSE 2021", "CSE 2021"]], ["EECS 2030", "Advanced Object Oriented Programming", "This course continues the separation of concern theme introduced in LE/EECS 1020 3.00 and LE/EECS1021 3.00. While 1020 and 1021 focuses on the client concern, this course focuses on the concern of the implementer. Hence, rather than using an API (Application Programming Interface) to build an application, the student is asked to implement a given API. Topics include implementing classes (non-utilities, delegation within the class definition, documentation and API generation, implementing contracts), aggregations (implementing aggregates versus compositions and implementing collections), inheritance hierarchies (attribute visibility, overriding methods, abstract classes versus interfaces, inner classes); applications of aggregation and inheritance in concurrent programming and event-driven programming; recursion; searching and sorting including quick and merge sorts); stacks and queues; linked lists; binary trees. ", ["EECS1021", "EECS 1020 (prior to Fall 2015)", "EECS1022", "EECS 1720"]], ["EECS 2031", "Software Tools", "Tools commonly used in the software development process: the C language; shell programming; filters and pipes; version control systems and \"make\"; debugging and testing. ", ["EECS 1021", "EECS 1022", "EECS 1030", "EECS 1720"]], ["EECS 2032", "Introduction to Embedded Systems", "This course introduces students to embedded systems. The students will learn basic features of embedded system architecture, as well as how to design, implement, and test programs for embedded systems. Topics include microcontrollers architectures, peripherals and communication protocols, interfacing, and program development, and testing. ", ["EECS 1021", "EECS 1022", "EECS 2021"]], ["EECS 2200", "Electrical Circuits", "This course covers the basic principles of linear circuits. Kirchhoff's laws, circuit equations, RL, RC, and RLC circuits, three-phase circuits, power analysis and power factor, and magnetically coupled circuits. ", ["PHYS 1010", "PHYS 1801"]], ["EECS 2210", "Electronic Circuits and Devices", "This course covers the basic material required in the design of both analog and digital electronic circuits. Diodes, transistors (both BJT and FET), amplifiers, rectifiers. ", ["ENG 2200"]], ["EECS 2311", "Software Development Project", "This course allows students to develop a significant piece of software utilizing all the skills they have acquired so far. This includes requirement elicitation, system specification, implementation, testing, deployment, and user documentation. ", ["EECS 1030", "EECS 2030"]], ["EECS 2501", "Fortran and Scientific Computing", "Covers computer-base problem solving in a variety of scientific and engineering settings. Introduces the FORTRAN programming language and its interface with scientific libraries. Applications are drawn mainly from scientific areas such as numerical methods, processing experimental data, simulation and data visualization. ", ["EECS 1020", "EECS 1021", "EECS 1022", "EECS 1530"]], ["EECS 2910", "Industry Practicum", "This course is only available to students in the Industry Partnership Stream of the Computer Science Honours BSc (enrollment by permission). Students in the stream may enroll in the course during a term for which they are employed by the industrial partner. The learning outcomes of the course will be approved by the instructor prior to enrollment. ", []], ["EECS 2911", "Industry Practicum", "This course is only available to students in the Industry Partnership Stream of the Computer Science Honours BSc (enrollment by permission). Students in the stream may enroll in the course during a term for which they are employed by the industrial partner. The learning outcomes of the course will be approved by the instructor prior to enrollment. ", []], ["EECS 3000", "Professional Practice in Computing", "Professional, legal and ethical issues in the development, deployment and use of computer systems; their impact on society including privacy and security, computer crime, malware, and intellectual property; professional ethics and responsibilities; guest lecturers from industry, government and university. ", ["EECS 2030", "EECS 1030"]], ["EECS 3101", "Design and Analysis of Algorithms", "Review of fundamental data structures. Analysis of algorithms: time and space complexity. Algorithm design paradigms: divide-and-conquer, exploring graphs, greedy methods, local search, dynamic programming, probabilistic algorithms, computational geometry. NP-complete problems. ", ["EECS 2011", "MATH 1090", "MATH 1310"]], ["EECS 3121", "Numerical Methods I", "An introductory course in computational linear algebra. Topics include simple error analysis, linear systems of equations, non-linear equations, linear least squares and interpolation. ", ["MATH 1010", "MATH 1014", "MATH 1310", "MATH 1021", "MATH 1025", "MATH 2221", "EECS 1540", "EECS 2031", "EECS 2501"]], ["EECS 3122", "Numerical Methods II", "Algorithms and computer methods for solving problems of differentiation, integration, systems of non-linear equations and matrix eigenvalues. ", ["MATH 3241", "EECS 3121"]], ["EECS 3201", "Digital Logic Design", "Theory, analysis, and design of logic circuits used in digital systems. Students will be introduced to design of switching circuits to implement logic gates, digital number representation and arithmetic circuits. They will learn how to use logic gates to construct combinational and sequential logic circuits and functional blocks. The course and the laboratory introduces the students to hardware description language and modern cad tools. ", ["EECS 1021", "EECS 1022", "PHYS 1012 or SC/PHYS 1412 or SC/PHYS 1422 or SC/PHYS 1801", "PHYS 1412 or SC/PHYS 1422 or SC/PHYS 1801", "PHYS 1422 or SC/PHYS 1801", "PHYS 1801", "PHYS 1010"]], ["EECS 3213", "Communication Networks", "Introduces the basics of communications and networking. Topics include transmission media; fundamental limits; protocols and hierarchies; the OSI model; encoding of data as signals; error and flow control; medium access; routing; internetworking; transport services; high-level applications. ", ["EECS 2030", "EECS 1030", "MATH 1310", "CSE 3213", "CSE 3213"]], ["EECS 3214", "Computer Network Protocols and Applications", "This course focuses on the higher-level network protocols, security issues, network programming, and applications. ", ["EECS 2030", "EECS 1030", "EECS 4213", "CSE 4213", "CSE 4213", "CSE 4213", "CSE 4213"]], ["EECS 3215", "Embedded Systems", "Introduction to the design of embedded systems using both hardware and software. Topics include microcontrollers; their architecture, and programming; design and implementation of embedded systems using field programmable gate arrays. ", ["EECS 2031", "EECS 3201"]], ["EECS 3216", "Digital Systems Engineering: Modeling, Implementation and Validation", "This is a project intensive course to introduce students to modeling, implementation, testing, and validation of hardware-based embedded systems. The emphasis in this course is on complex digital systems that interact with physical systems. ", ["EECS 2032", "EECS 2031", "EECS 3201"]], ["EECS 3221", "Operating System Fundamentals", "Principles of operating systems. Concurrent processes, CPU scheduling, deadlocks, memory management, file systems, protection and security, and case studies. ", ["EECS 2030", "EECS 1030", "EECS 2021", "EECS 2031", "EECS 2032"]], ["EECS 3311", "Software Design", "A study of design methods and their use in the correct implementation, maintenance and evolution of software systems. Topics include design, implementation, testing, documentation needs and standards, support tools. Students design and implement components of a software system. ", ["EECS 2030", "EECS 1030", "EECS 2011", "MATH 1090", "EECS 2031", "EECS 2032"]], ["EECS 3342", "System Specification and Refinement", "Theory and tools for specifying computer systems (sequential, concurrent and embedded). Specification (via set theory and predicate logic), modelling, abstraction, refinement and formal reasoning are undertaken before code development so that systems are correct by construction under the stated assumptions. ", ["EECS 2030", "EECS 1030", "EECS 2011", "MATH 1090"]], ["EECS 3401", "Introduction to Artificial Intelligence and Logic Programming", "Artificial Intelligence (AI) deals with how to build intelligent systems. In this course, we examine fundamental concepts in AI: knowledge representation and reasoning, search, constraint satisfaction, reasoning under uncertainty, etc. The course also introduces logic programming and Prolog. ", ["EECS 2030", "EECS 1030", "EECS 2011", "CSE 3401"]], ["EECS 3421", "Introduction to Database Systems", "Concepts, approaches and techniques in database management systems (DBMS). Logical model of relational databases. An introduction to relational database design. Other topics such as query languages, crash recovery and concurrency control. ", ["EECS 2030", "EECS 1030"]], ["EECS 3431", "Introduction to 3D Computer Graphics", "Introduces the fundamental concepts and algorithms of three-dimensional computer graphics, including object modelling, transformations, cameras, visibility and shading. ", ["EECS 2030", "MATH 1025"]], ["EECS 3451", "Signals and Systems", "An introduction to the mathematical background in signals and systems; signal and image processing: sampling, discrete Fourier transform, filtering; linear system theory; Kalman filtering; feedback. ", ["EECS 2021", "MATH 1310"]], ["EECS 3461", "User Interfaces", "Introduces user interfaces and the tools and mechanisms to create and prototype them. Students work in small groups and learn how to design user interfaces, how to realize them and how to evaluate the end result. ", ["EECS 2030", "EECS 1030"]], ["EECS 3481", "Applied Cryptography", "An overview of cryptographic algorithms and the main cryptosystems in use today, emphasizing the application of cryptographic algorithms to designing secure protocols. ", ["EECS 2011"]], ["EECS 3482", "Introduction to Computer Security", "Introduces fundamental computer security concepts. Topics include security goals and terminology, an overview of the various security domains, an introduction to cryptography, security policies, risk management and auditing. Laboratory exercises emphasize these topics in a practical manner. ", []], ["EECS 3505", "Electrical Systems for Mechanical Engineers", "Many mechanical systems today are integrated with electrical systems. This course will prepare students to work on electromechanical systems by introducing them to topics such as: The basics of circuit analysis and setup, as well as electronics; power systems including 3-phase; DC and AC motors; electro-mechanical actuators; and, time permitting, basics of communication protocols. ", ["PHYS 1801", "MECH 2502"]], ["EECS 3603", "Electromechanical Energy Conversion", "This course covers the basic construction and principles of operation of different types of electric machines; magnetic circuit analysis, single-phase and poly-phase transformers, principles of electromechanical energy conversion, DC machines, three-phase induction machines, synchronous machines, and special machines (stepper motors, linear motors and brushless DC (BLDC) motors). The transients and dynamics of machines are analyzed. Introduction of Solid-State control of motors. In addition to lectures and tutorials, field trip: six hours. ", ["EECS 2200", "PHYS 2020"]], ["EECS 3604", "Electromagnetic theory and wave propagation", "Provides the student with an introduction to partial differential equations and the mathematics of wave propagation. Specific applications to electromagnetic waves are discussed. Guided waves, transmission lines, and antennas are also introduced. ", ["MATH 1014", "MATH 1025", "PHYS 2020"]], ["EECS 3611", "Analog Electronics", "This course focuses on the analysis and design of analog electronic circuits in bipolar and CMOS technology. It covers the aspects of circuit design from single transistor operation to complex amplifiers, operational amplifiers and feedback. ", ["EECS 2210"]], ["EECS 3622", "Introduction to Power Systems", "The course discusses the basic modeling and analysis techniques in electrical energy systems including generation, transmission, and distribution systems. It covers the power system fundamentals consisting of 3-phase systems, complex and phasor quantities, single line diagrams and Per Unit system of calculations. Concept of complex power and active and reactive power are covered and reactive power compensation is also described. Functional descriptions and modeling of generators, transformers, transmission lines, motors and other loads are discussed. Various types of renewable energy systems are also introduced and basic functionality of the critical components of these systems are discussed. ", ["EECS 2200"]], ["EECS 3900", "Computer Science Internship Work Term", "This experiential education course reflects the work term component of the Technology Internship Program (TIP). Qualified Honours students gain relevant work experience as an integrated complement to their academic studies, reflected in the requirements of a learning agreement and work term report. Students are required to register in this course for each four month work term, with the maximum number of work term courses being four (i.e. 16 months). Students in this course receive assistance from the Career Centre prior to and during their internship, and are also assigned a Faculty Supervisor/Committee. ", ["EECS 3311", "CSE 3311", "CSE 3311", "EECS 3900", "CSE 3900", "CSE 3900"]], ["EECS 3910", "Industry Practicum", "This course is only available to students in the Industry Partnership Stream of the Computer Science Honours BSc (enrollment by permission). Students in the stream may enroll in the course during a term for which they are employed by the industrial partner. The learning outcomes of the course will be approved by the instructor prior to enrollment. ", []], ["EECS 3911", "Industry Practicum", "This course is only available to students in the Industry Partnership Stream of the Computer Science Honours BSc (enrollment by permission). Students in the stream may enroll in the course during a term for which they are employed by the industrial partner. The learning outcomes of the course will be approved by the instructor prior to enrollment. ", []], ["EECS 3980", "Computer Security Internship Work Term", "This experiential education course reflects the work term component of the Technology Internship Program (TIP). Qualified Honours students gain relevant work experience as an integrated complement to their academic studies, reflected in the requirements of a learning agreement and work term report. Students are required to register in this course for each four month work term, with the maximum number of work term courses being four (i.e. 16 months). Students in this course receive assistance from the Career Centre prior to and during their internship, and are also assigned a Faculty Supervisor/Committee. ", ["EECS 3482", "CSE 3482", "CSE 3482", "EECS 3980", "CSE 3980", "CSE 3980"]], ["EECS 4070", "Directed Studies", "By special arrangement, a student may carry out independent study in a specialized area of computer science or engineering under the direction of a member of the EECS department. The student will be expected to meet regularly with the supervisor throughout the term. In addition to regular meetings with the supervisor, a student is expected to do about 10 hours per week on reading and preparation of assigned work. ", ["EECS 2030", "EECS 1030"]], ["EECS 4080", "Computer Science Project", "A project in computer science chosen in consultation with, and supervised by, a member of the department. ", ["EECS 2030", "EECS 1030"]], ["EECS 4088", "Computer Science Capstone Project", "A project in computer science chosen in consultation with, and supervised by, a member of the department. ", ["EECS 2030", "EECS 1030"]], ["EECS 4090", "Software Development Capstone Project", "Large-scale project involving all stages of the software development life cycle: requirements, analysis and design, implementation, testing and delivery. Team work. Open only to students in the Software Development Stream. ", ["EECS 3311", "EECS 3101", "EECS 3342", "EECS 4312", "EECS 4313"]], ["EECS 4101", "Advanced Data Structures", "Amortized and worst-case analysis of data structures. Data structuring paradigms: self-adjustment and persistence. Lists: self-adjustment with the move-to-front heuristic. Search trees: splay trees, finger search trees. Heaps: skew heaps, Fibonacci heaps. Union-find trees. Link-and-cut trees. Multidimensional data structures and dynamization. Integrated with: GS/CSE 5101 3.00. ", ["EECS 2030", "EECS 1030", "EECS 2001", "EECS 3101", "CSE 4101", "CSE 4101"]], ["EECS 4111", "Automata and Computability", "Introduction to more advanced topics in theoretical foundations of computer science, including the study of formal languages and automata, formal models of computation, and computational complexity measures. Integrated with: GS/CSE 5111 3.00. ", ["EECS 2030", "EECS 1030", "EECS 2001", "EECS 3101", "CSE 4111"]], ["EECS 4141", "Introduction to Quantum Computing", "This course presents an overview of the quantum computing field without assuming any prior exposure to quantum mechanics. Drawing parallels between quantum and classical computing, the course covers the physical layer briefly before moving to quantum gates, the circuit model, and quantum algorithms. Quantum information is covered through applications. ", ["MATH 1025", "EECS 2021", "EECS 3101"]], ["EECS 4161", "Mathematics of Cryptography", "Probability, information theory and number theory and applications to cryptography. Classical codes such as Caesar shift, Vigenere, ADFGVX, rectangular substitution, and others. Other topics: comma free codes, perfect secrecy, index of coincidence, public key systems, primality testing and factorization algorithms. ", ["EECS 3101"]], ["EECS 4201", "Computer Architecture", "The internal structure and design ideas embodied in many computers and the techniques for evaluating them. Fast arithmetic algorithms, memory system designs, pipeline techniques, input-output subsystems and parallel computing structures. Future trends in computer architecture. ", ["EECS 3201", "EECS 3221", "CSE 4201"]], ["EECS 4214", "Digital Communications", "Introduces fundamental principles underlying design and analysis of digital communication systems. Develops mathematical/physical understanding from the information source through the transmitter, channel, receiver, and information sink. Topics include baseband transmission, matched filtering, modulation, channel coding, and spread spectrum. ", ["EECS 3213", "MATH 2030", "MATH 2930", "EECS 3451", "EECS 3602", "ESSE 4020", "MATH 4830", "PHYS 4060", "PHYS 4250", "CSE 4214"]], ["EECS 4215", "Mobile Communications", "Provides an overview of the latest developments and trends in wireless mobile communications, and addresses the impact of wireless transmission and user mobility on the design and management of wireless mobile systems. ", ["EECS 2030", "EECS 1030", "EECS 3213"]], ["EECS 4312", "Software Engineering Requirements", "This course deals with the elicitation, specification and analysis of software requirements and provides a critical description of available methods and tools, and practical exercises on applying these methods and tools to realistic problems. Three lecture hours per week. One laboratory hour per week. One term. Three credits. ", ["EECS 2030", "EECS 1030", "EECS 3311"]], ["EECS 4313", "Software Engineering Testing", "An introduction to systematic methods of testing and verification, covering a range of static and dynamic techniques and their use within the development process; emphasizes the view that design should be carried out with verification in mind to achieve overall project goals. ", ["EECS 2030", "EECS1030", "EECS 3311", "CSE 4313"]], ["EECS 4314", "Advanced Software Engineering", "Advanced software engineering methods, processes and measurements (from requirements through to system evolution) for managing and delivering reliable software on time and within budget. Understanding the different types of systems and their associated technical, ethical and professional issues. ", ["EECS 2030", "EECS 1030", "EECS 3311"]], ["EECS 4315", "Mission-Critical Systems", "Theory and practical tools underlying deductive and algorithmic methods for ensuring the safety and correctness of mission critical systems (e.g. medical systems, nuclear reactors and train systems) with the practical ability to use verification tools to perform software certification. ", ["EECS 2030", "EECS 1030", "EECS 3342"]], ["EECS 4401", "Artificial Intelligence", "This is a second course in Artificial intelligence that covers selected topics in this area such as: reasoning about action and planning, uncertain and fuzzy reasoning, knowledge representation, automated reasoning, non-monotonic reasoning and answer set programming, ontologies and description logic, local search methods, Markov decision processes, autonomous agents and multi-agent systems, machine learning, reasoning about beliefs and goals, and expert systems. ", ["EECS 2030", "EECS 1030", "EECS 3401"]], ["EECS 4404", "Introduction to Machine Learning and Pattern Recognition", "Machine learning is the study of algorithms that learn how to perform a task from prior experience. This course introduces the student to machine learning concepts and techniques applied to pattern recognition problems in a diversity of application areas. ", ["EECS 2030", "EECS 1030", "MATH 2030", "MATH 2930", "MATH 1131"]], ["EECS 4411", "Database Management Systems", "A study of principles of database management systems. A thorough analysis of theory of normal, relational algebra and calculus and query languages based on these concepts. Other topics: security and integrity issues, concurrency control, distributed systems, query optimization. ", ["EECS 2011", "EECS 2021", "EECS 2031", "EECS 2032", "EECS 3421"]], ["EECS 4412", "Data Mining", "Introduces and presents basic concepts of data mining, data mining techniques, models and applications. Topics include association rule mining, classification models, sequential pattern mining and clustering. ", ["EECS 2030", "EECS 1030", "EECS 3101", "EECS 3421", "MATH 2030", "MATH 2930", "MATH 1131", "CSE 4412"]], ["EECS 4413", "Building E-Commerce Systems", "A study of the technical infrastructure that underlies Electronic Commerce on the Internet. The foundational concepts are presented through a series of projects that use an industrial-strength framework on the server side, standard-compliant technologies on the client side, and a variety of messaging protocols on the network side. Best practices, security concerns, and performance issues are emphasized throughout. ", ["EECS 2030", "EECS 1030", "CSE 4413"]], ["EECS 4414", "Information Networks", "Information networks are effective representations of pairwise relationships between objects. Examples include technological networks (e.g., World Wide Web), online social networks (e.g., Facebook), and biological networks (e.g., Protein-to-Protein interactions). The study of information networks is an emerging discipline of immense importance that combines graph theory, probability and statistics, data mining and analysis, and computational social science. This course provides students with both theoretical knowledge and practical experience of the field by covering models and algorithms of information networks and their basic properties. In addition, analysis of information networks provides the means to explore large, complex data coming from vastly diverse sources and to inform computational problems and better decisions. Topics include: basic graph theory, network measurements, network models, community detection, graph partitioning, link analysis, link prediction, information cascades & epidemics, influence maximization, network ties, recommendation systems, mining graphs, and connections to problems in the social sciences and economics. ", ["EECS 3421", "EECS 3101", "MATH 2030", "MATH 2930"]], ["EECS 4415", "Big Data Systems", "Storing, managing, and processing datasets are foundational to both computer science and data science. The enormous size of today's data sets and the specific requirements of modern applications necessitated the growth of a new generation of data management systems, where the emphasis is put on distributed and fault-tolerant processing. New programming paradigms have evolved, an abundance of information platforms offering data management and analysis solutions appeared and a number of novel methods and tools have been developed. This course introduces the fundamentals of big data storage, retrieval, and processing systems. As these fundamentals are introduced, exemplary technologies are used to illustrate how big data systems can leverage very large data sets that become available through multiple sources and are characterized by diverse levels of volume (terabytes; billion records), velocity (batch; real-time; streaming) and variety (structured; semi-structured; unstructured). The course aims to provide students with both theoretical knowledge and practical experience of the field by covering recent research on big data systems and their basic properties. Students consider both small and large datasets because both are equally important and justify different trade-offs. Topics include: software frameworks for distributed storage and processing of very large data sets, MapReduce programming model, querying of structured data sets, column stores, key-value stores, document stores, graph databases, distributed stream processing frameworks. ", ["EECS 3421", "EECS 3101"]], ["EECS 4421", "Introduction to Robotics", "An introduction to robotic manipulators and autonomous vehicles. The course covers the kinematics and dynamics of manipulators and autonomous platforms, robot sensors and navigation. ", ["MATH 1025", "MATH 1310", "EECS 2031", "CSE 4421"]], ["EECS 4422", "Computer Vision", "Fundamental concepts of Computer vision and including aspects of biological vision, image formation process, image processing, feature extraction and matching, 3-D parameter estimation, applications and statistical techniques. Twelve supervised laboratory hours. ", ["MATH1025", "MATH1310", "EECS2031", "EECS 2032"]], ["EECS 4441", "Human-Computer Interaction", "Introduces the concepts and technology necessary to design, manage and implement interactive software. Students work in small groups and learn how to design user interfaces, how to realize them and how to evaluate the end result. Both design and evaluation are emphasized. ", ["EECS 2030", "EECS 1030", "EECS 3461", "CSE 4441"]], ["EECS 4443", "Mobile User Interfaces", "The design and implementation of user interfaces for touchscreen devices and tablet computers. Students develop user interfaces that include touch, multi-touch, vibration, device motion, position, and orientation, environment sensing, video capture, and audio capture. Twelve Supervised laboratory hours that emphasize these topics in a practical manner. ", ["EECS 2030", "EECS 1030", "EECS 3461"]], ["EECS 4452", "Digital Signal Processing: Theory and Applications", "Fundamental digital signal processing. Inner product, Hilbert space, orthogonality principle, discrete-time Fourier transform, discrete Fourier transform, z-transform, multirate systems, sampling and interpolation. ", ["EECS 3451", "EECS 3602"]], ["EECS 4461", "Hypermedia and Multimedia Technology", "Design and application of computer systems which provide information resources for learning, online-help, conceptual exploration, visualization and entertainment; e.g. hypertext/hypermedia, networked information-servers, systems for collaborative work, and \"virtual reality\". One or two topics are discussed in depth using current research literature. ", ["EECS 2030", "EECS 1030", "EECS 3461", "CSE 4461"]], ["EECS 4480", "Computer Security Project", "This is a capstone project course for computer security students. The students engage in a significant research and/or development project that has major computer security considerations. ", []], ["EECS 4481", "Computer Security Laboratory", "Provides a thorough understanding of the technical aspects of computer security. It covers network, operating systems, and application software security. Computer laboratory projects provide exposure to various tools in a hands-on setting. ", ["EECS 2030", "EECS 1030", "EECS 3214"]], ["EECS 4482", "Network Security and Forensics", "This course provides a comprehensive coverage of theoretical and practical aspects of network security and forensics. The emphasis is on the limitations and attacks against network protocols and architectures most widely used in practice, as well as the best known detection, prevention and remediation techniques against these attacks. The course also has a strong emphasis on hands-on learning either by using already existing real-world tools or by developing new custom software. Familiarity with the TCP/IP protocol suite and basic computer networking concepts is required. ", ["EECS 3213", "EECS 3214", "EECS 3482"]], ["EECS 4491", "Simulation and Animation for Computer Games", "Introduction to simulation and animation techniques used in computer games, with a focus on the algorithms and methods that support moving objects in the virtual environments. ", ["EECS 2030", "EECS 1030", "EECS 3431", "MATH 1310"]], ["EECS 4611", "Analog Integrated Circuit Design", "This course presents analog circuit principles for the analysis and design of high-performance circuits in modern technologies. Its techniques enable the realization of wide-band amplifiers, low-noise amplifiers, operational amplifiers, and feedback amplifiers. Advanced computer simulation, and physical layout are presented.", ["EECS 3611"]], ["EECS 4613", "Power Electronics", "The objective of this course is to understand the basic operating principles of power conversion using advanced electronic devices. The structure and characteristics of several switching devices are reviewed. Basic power electronic converters and inverters such as AC/DC rectifiers, DC/DC switch mode converters and voltage source DC/AC inverters are studied. Resonant DC/DC converters are introduced. Computation of circuit quantities such as average and RMS value, average power, power factor, total harmonics distortion and power efficiency are also studied. ", ["EECS 2210", "EECS 3603"]], ["EECS 4622", "Introduction to Energy Systems", "Introduction to basic modeling and analysis techniques in electricity generation, transmission and distribution. Introduction to 3-phase systems, single line diagrams and Per Unit system of calculations. Functional descriptions and modeling of generators, transformers, transmission lines, motors and other loads are discussed. Load Flow study, Gauss-Seidel and Newton-Raphson iterative methods; Symmetrical fault analysis, symmetrical components, unsymmetrical fault analysis; introduction of protection relays and Circuit Breakers; power systems stability analysis; introduction to distribution systems and distributed generation. ", ["EECS 2200", "EECS 3603", "PHY 2020"]], ["EECS 4640", "Medical Imaging Techniques: Principles and Applications", "This course introduces principles of medical imaging, focusing on major imaging modalities including ultrasound, X-ray radiography, computed tomography, magnetic resonance imaging, and nuclear medicine imaging. The course covers the physics and engineering aspects of how various imaging signals are acquired and processed in order to form medically useful images. The course applies the classical knowledge of engineering physics and signals and systems techniques to the development of various medical imaging technologies. Basic mathematical tools required to understand how the tomographic imaging modalities work are presented. Sources of image noise and other causes of artifacts are introduced, and the mechanisms that govern the achievable resolution of the different modalities are discussed. The course also covers essentials of medical image analysis. The students will learn the fundamentals, basic design and applications of medical imaging systems, imaging signal processing and medical image analysis. Background in signals and systems, and basic knowledge of physics are required before taking the course. Integrated with: GS/EECS 5640 3.00. ", ["EECS 2602", "EECS 3451"]], ["EECS 4700", "Digital Media Project", "This course involves the completion of a significant body of work in the area of Digital Media. The project will normally be a team project involving the development and analysis of a digital media work potentially having elements of interactivity, animation, 3-D graphics, and sound for example. The project will be presented at a public workshop towards the end of the year. ", []], ["EECS 4910", "Industry Practicum", "This course is only available to students in the Industry Partnership Stream of the Computer Science Honours BSc (enrollment by permission). Students in the stream may enroll in the course during a term for which they are employed by the industrial partner. The learning outcomes of the course will be approved by the instructor prior to enrollment. ", []], ["EECS 4911", "Industry Practicum", "This course is only available to students in the Industry Partnership Stream of the Computer Science Honours BSc (enrollment by permission). Students in the stream may enroll in the course during a term for which they are employed by the industrial partner. The learning outcomes of the course will be approved by the instructor prior to enrollment. ", []]]
+[
+    [
+        "EECS 1001",
+        "Research Directions in Computing",
+        "An introduction to research directions within the department and more broadly within the field. Students will attend lectures and other events organised by the department. Note: This course is expected to be completed in the first-year of study.",
+        []
+    ],
+    [
+        "EECS 1011",
+        "Computational Thinking through Mechatronics",
+        "The Objectives of 1011 are threefold: providing a first exposure to procedural programming, teaching students a set of soft computing skills (such as reasoning about algorithms, tracing programs, test-driven development), and demonstrating how computers are used in a variety of engineering disciplines. It uses problem-based pedagogy to expose the underlying concepts and an experiential laboratory to implement them. An integrated computing environment (such as MATLAB) is used so that students can pick up key programming concepts(such as variables and control flow) without being exposed to complex or abstract constructs. The problems are chosen with consultation with the various engineering disciplines in the Faculty with a view of exposing how computing is used in these disciplines. ",
+        []
+    ],
+    [
+        "EECS 1012",
+        "Introduction to Computing: A Net-centric Approach",
+        "The objectives of 1012 are threefold: providing a first exposure to event-driven programming, teaching students a set of computing skills (including reasoning about algorithms, tracing programs, test-driven development, unit testing), and providing an introduction to computing within a mobile, net-centric context. It uses problem-based approach to expose the underlying concepts and an experiential laboratory to implement them. A mature mobile software infrastructure (such as HTML, CSS, and JavaScript) is used so that students can pick up key programming concepts (such as variables and control flow) within a client-server context without being bogged down in complex or abstract constructs. Laboratory exercises expose students to a range of real-world problems with a view of motivating computational thinking and grounding the material covered in lecture. ",
+        []
+    ],
+    [
+        "EECS 1015",
+        "Introduction to Computer Science and Programming",
+        "This course is an introduction to the concepts and tools of computer science as students learn a procedural subset of the Python programming language. Python has a variety of libraries in different domains allowing for the solution of interesting problems which has made it a popular language in industry and the academy. Students do hands-on work to design, write, debug and test computer programs that solve problems computationally. Students study variables, assignments, expressions (arithmetic, relational and logical) and sequencing of statements to implement solutions for computational problems, in Python. They document programs with comments and preconditions. They analyze the type correctness of programs via a type checker. They use an Integrated Development Environment (IDE) to develop, unit-test and debug programs given a problem specification. They apply conditionals (including nested conditionals) to implement algorithms to solve computational problems. They code functions to develop modular programming solutions for computational problems. They apply Python loops (including nested loops) to implement algorithms to solve computational problems. They apply data structures, including tuples, sets, lists and dictionaries, to implement algorithms to solve computational problems. They code simple recursive functions to implement algorithms to solve computational problems. ",
+        []
+    ],
+    [
+        "EECS 1019",
+        "Discrete Mathematics for Computer Science",
+        "Introduction to abstraction. Use and development of precise formulations of mathematical ideas. Informal introduction to logic; introduction to naïve set theory; induction; relations and functions; big O-notation; recursive definitions, recurrence relations and their solutions; graphs and trees. ",
+        [
+            "MATH 1190"
+        ]
+    ],
+    [
+        "EECS 1021",
+        "Object Oriented Programming from Sensors to Actuators",
+        "\"Introduces student to computational thinking - a process-based approach to problem solving. It uses a problem-based pedagogy to expose the underlying concepts and an experiential laboratory to implement them. The programming language is chosen so that it is widely used in a variety of applications, is object-oriented, and is of industrial strength (Java is an example of such a language). The problems are chosen in order to expose abstract programming concepts by immersing them in relevant and engaging applications. The experiential laboratory is based on sensors and actuators that connect to a computer. The problems are chosen with consultation with the various engineering disciplines in the Faculty with a view of exposing how computing is used in these disciplines. ",
+        [
+            "EECS1011"
+        ]
+    ],
+    [
+        "EECS 1022",
+        "Programming for Mobile Computing",
+        "Provides a first exposure to object-oriented programming and enhances student understanding of key computing skills such as reasoning about algorithms, designing user interfaces, and working with software tools. It uses problem-based approach to expose the underlying concepts and an experiential laboratory to implement them. A mature mobile software infrastructure (such as Java and the Android programming environment) is used to expose and provide context to the underlying ideas. Laboratory exercises expose students to a range of real-world problems with a view of motivating computational thinking and grounding the material covered in lectures. ",
+        [
+            "EECS 1012",
+            "EECS 1015"
+        ]
+    ],
+    [
+        "EECS 1028",
+        "Discrete Mathematics for Engineers",
+        "An introduction to propositional logic and application to switching circuits; sets, relations and functions; predicate logic and proof techniques; induction with applications to program correctness; basic counting techniques with applications; graphs and trees with applications in circuit analysis, information storage and retrieval, Huffman coding; automata and applications in software engineering. ",
+        []
+    ],
+    [
+        "EECS 1520",
+        "Computer Use: Fundamentals",
+        "An An introduction to the use of computers focusing on concepts of computer technology and organization (hardware and software) and the use of applications such as spreadsheets and information retrieval tools for problem solving. This course is designed for students who are not engineering or computer science majors. Students who plan to major in engineering or computer science are advised to take LE/EECS 1011 3.00 or LE/EECS 1012 3.00, respectively. ",
+        []
+    ],
+    [
+        "EECS 1530",
+        "Computer Use: Programming",
+        "Concepts of computer systems and technology - e.g. software engineering, algorithms, programming languages, theory of computation. Practical work focuses on problem solving using a high-level programming language. The course requires extensive laboratory work. This course is designed for students who are not Computer Science majors, but may be used as preparation by those who wish to major in Computer Science but lack programming background. ",
+        []
+    ],
+    [
+        "EECS 1540",
+        "Computer Use for the Natural Sciences",
+        "Introduction to problem solving using computers - top down and modular design; implementation in a procedural programming language - control structures, data structures, subprograms; application to simple numerical methods, modelling and simulation in the sciences; use of library subprograms. ",
+        []
+    ],
+    [
+        "EECS 1541",
+        "Introduction to Computing for the Physical Sciences",
+        "An introduction to scientific computing using an integrated computing and visualization platform. Elements of procedural programming such as: control structures, data types, program modules. Visualization in two and three dimensions. Applications to numerical computation and simulations relevant to the physical sciences. ",
+        [
+            "MATH 1013",
+            "PHYS 1010",
+            "PHYS 1410",
+            "PHYS 1420",
+            "MATH 1021",
+            "MATH 1025"
+        ]
+    ],
+    [
+        "EECS 1560",
+        "Introduction to Computing for Mathematics and Statistics",
+        "An introduction to scientific computing using an integrated computing and visualization environment. The course presents computer-based problem-solving techniques through a series of applications rooted in Mathematics and Statistics. ",
+        [
+            "MATH 1300",
+            "MATH 1310",
+            "MATH 1131",
+            "MATH 2030"
+        ]
+    ],
+    [
+        "EECS 1570",
+        "Introduction to Computing for Psychology",
+        "An introduction to computing concepts with applications to problems drawn from psychology, including concepts of computer programming in an integrated computing and visualization environment. ",
+        [
+            "MATH 1505"
+        ]
+    ],
+    [
+        "EECS 1710",
+        "Programming for Digital Media",
+        "Introduction to program design and implementation focusing on digital media projects including sound, images, and animation; includes algorithms, simple data structures, control structures, and debugging techniques. ",
+        []
+    ],
+    [
+        "EECS 1720",
+        "Building Interactive Systems",
+        "A second course teaching more advanced programming concepts within the context of image, sound and interaction using an object-oriented language; introduction to interactive systems, user interfaces, event-driven programming, object design and inheritance; implementation using debuggers, integrated development environments, user interface builders. ",
+        [
+            "EECS 1710"
+        ]
+    ],
+    [
+        "EECS 1910",
+        "Industry Practicum",
+        "This course is only available to students in the Industry Partnership Stream of the Computer Science Honours BSc (enrollment by permission). Students in the stream may enroll in the course during a term for which they are employed by the industrial partner. The learning outcomes of the course will be approved by the instructor prior to enrollment. ",
+        []
+    ],
+    [
+        "EECS 1911",
+        "Industry Practicum",
+        "This course is only available to students in the Industry Partnership Stream of the Computer Science Honours BSc (enrollment by permission). Students in the stream may enroll in the course during a term for which they are employed by the industrial partner. The learning outcomes of the course will be approved by the instructor prior to enrollment. ",
+        []
+    ],
+    [
+        "EECS 2001",
+        "Introduction to the Theory of Computation",
+        "Introduction to the theory of computing, including automata theory, formal languages and Turing machines; theoretical models and their applications in various fields of computer science. The emphasis is on practical applications of the theory and concepts rather than formal rigour. ",
+        [
+            "EECS 1021",
+            "EECS 1022",
+            "EECS 1720",
+            "EECS 1030",
+            "EECS 1028",
+            "MATH 1028",
+            "EECS 1019",
+            "MATH 1019",
+            "CSE 2001",
+            "CSE 2001"
+        ]
+    ],
+    [
+        "EECS 2011",
+        "Fundamentals of Data Structures",
+        "A study of fundamental data structures and their use in the efficient implementation of algorithms. Topics include abstract data types, lists, stacks, queues, trees and graphs. ",
+        [
+            "EECS 1030",
+            "EECS 2030",
+            "EECS 1028",
+            "MATH 1028",
+            "EECS 1019",
+            "MATH 1019",
+            "CSE 2011",
+            "or system invarian"
+        ]
+    ],
+    [
+        "EECS 2021",
+        "Computer Organization",
+        "Introduction to computer organization and instruction set architecture, covering assembly language, machine language and encoding, addressing modes, single/multicycle datapaths (including functional units and controls), pipelining, memory segments and memory hierarchy. ",
+        [
+            "EECS 1021",
+            "EECS 1022",
+            "EECS 1720",
+            "EECS 1030",
+            "CSE 2021",
+            "CSE 2021"
+        ]
+    ],
+    [
+        "EECS 2030",
+        "Advanced Object Oriented Programming",
+        "This course continues the separation of concern theme introduced in LE/EECS 1020 3.00 and LE/EECS1021 3.00. While 1020 and 1021 focuses on the client concern, this course focuses on the concern of the implementer. Hence, rather than using an API (Application Programming Interface) to build an application, the student is asked to implement a given API. Topics include implementing classes (non-utilities, delegation within the class definition, documentation and API generation, implementing contracts), aggregations (implementing aggregates versus compositions and implementing collections), inheritance hierarchies (attribute visibility, overriding methods, abstract classes versus interfaces, inner classes); applications of aggregation and inheritance in concurrent programming and event-driven programming; recursion; searching and sorting including quick and merge sorts); stacks and queues; linked lists; binary trees. ",
+        [
+            "EECS1021",
+            "EECS 1020 (prior to Fall 2015)",
+            "EECS1022",
+            "EECS 1720"
+        ]
+    ],
+    [
+        "EECS 2031",
+        "Software Tools",
+        "Tools commonly used in the software development process: the C language; shell programming; filters and pipes; version control systems and \"make\"; debugging and testing. ",
+        [
+            "EECS 1021",
+            "EECS 1022",
+            "EECS 1030",
+            "EECS 1720"
+        ]
+    ],
+    [
+        "EECS 2032",
+        "Introduction to Embedded Systems",
+        "This course introduces students to embedded systems. The students will learn basic features of embedded system architecture, as well as how to design, implement, and test programs for embedded systems. Topics include microcontrollers architectures, peripherals and communication protocols, interfacing, and program development, and testing. ",
+        [
+            "EECS 1021",
+            "EECS 1022",
+            "EECS 2021"
+        ]
+    ],
+    [
+        "EECS 2200",
+        "Electrical Circuits",
+        "This course covers the basic principles of linear circuits. Kirchhoff's laws, circuit equations, RL, RC, and RLC circuits, three-phase circuits, power analysis and power factor, and magnetically coupled circuits. ",
+        [
+            "PHYS 1010",
+            "PHYS 1801"
+        ]
+    ],
+    [
+        "EECS 2210",
+        "Electronic Circuits and Devices",
+        "This course covers the basic material required in the design of both analog and digital electronic circuits. Diodes, transistors (both BJT and FET), amplifiers, rectifiers. ",
+        [
+            "ENG 2200"
+        ]
+    ],
+    [
+        "EECS 2311",
+        "Software Development Project",
+        "This course allows students to develop a significant piece of software utilizing all the skills they have acquired so far. This includes requirement elicitation, system specification, implementation, testing, deployment, and user documentation. ",
+        [
+            "EECS 1030",
+            "EECS 2030"
+        ]
+    ],
+    [
+        "EECS 2501",
+        "Fortran and Scientific Computing",
+        "Covers computer-base problem solving in a variety of scientific and engineering settings. Introduces the FORTRAN programming language and its interface with scientific libraries. Applications are drawn mainly from scientific areas such as numerical methods, processing experimental data, simulation and data visualization. ",
+        [
+            "EECS 1020",
+            "EECS 1021",
+            "EECS 1022",
+            "EECS 1530"
+        ]
+    ],
+    [
+        "EECS 2910",
+        "Industry Practicum",
+        "This course is only available to students in the Industry Partnership Stream of the Computer Science Honours BSc (enrollment by permission). Students in the stream may enroll in the course during a term for which they are employed by the industrial partner. The learning outcomes of the course will be approved by the instructor prior to enrollment. ",
+        []
+    ],
+    [
+        "EECS 2911",
+        "Industry Practicum",
+        "This course is only available to students in the Industry Partnership Stream of the Computer Science Honours BSc (enrollment by permission). Students in the stream may enroll in the course during a term for which they are employed by the industrial partner. The learning outcomes of the course will be approved by the instructor prior to enrollment. ",
+        []
+    ],
+    [
+        "EECS 3000",
+        "Professional Practice in Computing",
+        "Professional, legal and ethical issues in the development, deployment and use of computer systems; their impact on society including privacy and security, computer crime, malware, and intellectual property; professional ethics and responsibilities; guest lecturers from industry, government and university. ",
+        [
+            "EECS 2030",
+            "EECS 1030"
+        ]
+    ],
+    [
+        "EECS 3101",
+        "Design and Analysis of Algorithms",
+        "Review of fundamental data structures. Analysis of algorithms: time and space complexity. Algorithm design paradigms: divide-and-conquer, exploring graphs, greedy methods, local search, dynamic programming, probabilistic algorithms, computational geometry. NP-complete problems. ",
+        [
+            "EECS 2011",
+            "MATH 1090",
+            "MATH 1310"
+        ]
+    ],
+    [
+        "EECS 3121",
+        "Numerical Methods I",
+        "An introductory course in computational linear algebra. Topics include simple error analysis, linear systems of equations, non-linear equations, linear least squares and interpolation. ",
+        [
+            "MATH 1010",
+            "MATH 1014",
+            "MATH 1310",
+            "MATH 1021",
+            "MATH 1025",
+            "MATH 2221",
+            "EECS 1540",
+            "EECS 2031",
+            "EECS 2501"
+        ]
+    ],
+    [
+        "EECS 3122",
+        "Numerical Methods II",
+        "Algorithms and computer methods for solving problems of differentiation, integration, systems of non-linear equations and matrix eigenvalues. ",
+        [
+            "MATH 3241",
+            "EECS 3121"
+        ]
+    ],
+    [
+        "EECS 3201",
+        "Digital Logic Design",
+        "Theory, analysis, and design of logic circuits used in digital systems. Students will be introduced to design of switching circuits to implement logic gates, digital number representation and arithmetic circuits. They will learn how to use logic gates to construct combinational and sequential logic circuits and functional blocks. The course and the laboratory introduces the students to hardware description language and modern cad tools. ",
+        [
+            "EECS 1021",
+            "EECS 1022",
+            "PHYS 1012 or SC/PHYS 1412 or SC/PHYS 1422 or SC/PHYS 1801",
+            "PHYS 1412 or SC/PHYS 1422 or SC/PHYS 1801",
+            "PHYS 1422 or SC/PHYS 1801",
+            "PHYS 1801",
+            "PHYS 1010"
+        ]
+    ],
+    [
+        "EECS 3213",
+        "Communication Networks",
+        "Introduces the basics of communications and networking. Topics include transmission media; fundamental limits; protocols and hierarchies; the OSI model; encoding of data as signals; error and flow control; medium access; routing; internetworking; transport services; high-level applications. ",
+        [
+            "EECS 2030",
+            "EECS 1030",
+            "MATH 1310",
+            "CSE 3213",
+            "CSE 3213"
+        ]
+    ],
+    [
+        "EECS 3214",
+        "Computer Network Protocols and Applications",
+        "This course focuses on the higher-level network protocols, security issues, network programming, and applications. ",
+        [
+            "EECS 2030",
+            "EECS 1030",
+            "EECS 4213",
+            "CSE 4213",
+            "CSE 4213",
+            "CSE 4213",
+            "CSE 4213"
+        ]
+    ],
+    [
+        "EECS 3215",
+        "Embedded Systems",
+        "Introduction to the design of embedded systems using both hardware and software. Topics include microcontrollers; their architecture, and programming; design and implementation of embedded systems using field programmable gate arrays. ",
+        [
+            "EECS 2031",
+            "EECS 3201"
+        ]
+    ],
+    [
+        "EECS 3216",
+        "Digital Systems Engineering: Modeling, Implementation and Validation",
+        "This is a project intensive course to introduce students to modeling, implementation, testing, and validation of hardware-based embedded systems. The emphasis in this course is on complex digital systems that interact with physical systems. ",
+        [
+            "EECS 2032",
+            "EECS 2031",
+            "EECS 3201"
+        ]
+    ],
+    [
+        "EECS 3221",
+        "Operating System Fundamentals",
+        "Principles of operating systems. Concurrent processes, CPU scheduling, deadlocks, memory management, file systems, protection and security, and case studies. ",
+        [
+            "EECS 2030",
+            "EECS 1030",
+            "EECS 2021",
+            "EECS 2031",
+            "EECS 2032"
+        ]
+    ],
+    [
+        "EECS 3311",
+        "Software Design",
+        "A study of design methods and their use in the correct implementation, maintenance and evolution of software systems. Topics include design, implementation, testing, documentation needs and standards, support tools. Students design and implement components of a software system. ",
+        [
+            "EECS 2030",
+            "EECS 1030",
+            "EECS 2011",
+            "MATH 1090",
+            "EECS 2031",
+            "EECS 2032"
+        ]
+    ],
+    [
+        "EECS 3342",
+        "System Specification and Refinement",
+        "Theory and tools for specifying computer systems (sequential, concurrent and embedded). Specification (via set theory and predicate logic), modelling, abstraction, refinement and formal reasoning are undertaken before code development so that systems are correct by construction under the stated assumptions. ",
+        [
+            "EECS 2030",
+            "EECS 1030",
+            "EECS 2011",
+            "MATH 1090"
+        ]
+    ],
+    [
+        "EECS 3401",
+        "Introduction to Artificial Intelligence and Logic Programming",
+        "Artificial Intelligence (AI) deals with how to build intelligent systems. In this course, we examine fundamental concepts in AI: knowledge representation and reasoning, search, constraint satisfaction, reasoning under uncertainty, etc. The course also introduces logic programming and Prolog. ",
+        [
+            "EECS 2030",
+            "EECS 1030",
+            "EECS 2011",
+            "CSE 3401"
+        ]
+    ],
+    [
+        "EECS 3421",
+        "Introduction to Database Systems",
+        "Concepts, approaches and techniques in database management systems (DBMS). Logical model of relational databases. An introduction to relational database design. Other topics such as query languages, crash recovery and concurrency control. ",
+        [
+            "EECS 2030",
+            "EECS 1030"
+        ]
+    ],
+    [
+        "EECS 3431",
+        "Introduction to 3D Computer Graphics",
+        "Introduces the fundamental concepts and algorithms of three-dimensional computer graphics, including object modelling, transformations, cameras, visibility and shading. ",
+        [
+            "EECS 2030",
+            "MATH 1025"
+        ]
+    ],
+    [
+        "EECS 3451",
+        "Signals and Systems",
+        "An introduction to the mathematical background in signals and systems; signal and image processing: sampling, discrete Fourier transform, filtering; linear system theory; Kalman filtering; feedback. ",
+        [
+            "EECS 2021",
+            "MATH 1310"
+        ]
+    ],
+    [
+        "EECS 3461",
+        "User Interfaces",
+        "Introduces user interfaces and the tools and mechanisms to create and prototype them. Students work in small groups and learn how to design user interfaces, how to realize them and how to evaluate the end result. ",
+        [
+            "EECS 2030",
+            "EECS 1030"
+        ]
+    ],
+    [
+        "EECS 3481",
+        "Applied Cryptography",
+        "An overview of cryptographic algorithms and the main cryptosystems in use today, emphasizing the application of cryptographic algorithms to designing secure protocols. ",
+        [
+            "EECS 2011"
+        ]
+    ],
+    [
+        "EECS 3482",
+        "Introduction to Computer Security",
+        "Introduces fundamental computer security concepts. Topics include security goals and terminology, an overview of the various security domains, an introduction to cryptography, security policies, risk management and auditing. Laboratory exercises emphasize these topics in a practical manner. ",
+        []
+    ],
+    [
+        "EECS 3505",
+        "Electrical Systems for Mechanical Engineers",
+        "Many mechanical systems today are integrated with electrical systems. This course will prepare students to work on electromechanical systems by introducing them to topics such as: The basics of circuit analysis and setup, as well as electronics; power systems including 3-phase; DC and AC motors; electro-mechanical actuators; and, time permitting, basics of communication protocols. ",
+        [
+            "PHYS 1801",
+            "MECH 2502"
+        ]
+    ],
+    [
+        "EECS 3603",
+        "Electromechanical Energy Conversion",
+        "This course covers the basic construction and principles of operation of different types of electric machines; magnetic circuit analysis, single-phase and poly-phase transformers, principles of electromechanical energy conversion, DC machines, three-phase induction machines, synchronous machines, and special machines (stepper motors, linear motors and brushless DC (BLDC) motors). The transients and dynamics of machines are analyzed. Introduction of Solid-State control of motors. In addition to lectures and tutorials, field trip: six hours. ",
+        [
+            "EECS 2200",
+            "PHYS 2020"
+        ]
+    ],
+    [
+        "EECS 3604",
+        "Electromagnetic theory and wave propagation",
+        "Provides the student with an introduction to partial differential equations and the mathematics of wave propagation. Specific applications to electromagnetic waves are discussed. Guided waves, transmission lines, and antennas are also introduced. ",
+        [
+            "MATH 1014",
+            "MATH 1025",
+            "PHYS 2020"
+        ]
+    ],
+    [
+        "EECS 3611",
+        "Analog Electronics",
+        "This course focuses on the analysis and design of analog electronic circuits in bipolar and CMOS technology. It covers the aspects of circuit design from single transistor operation to complex amplifiers, operational amplifiers and feedback. ",
+        [
+            "EECS 2210"
+        ]
+    ],
+    [
+        "EECS 3622",
+        "Introduction to Power Systems",
+        "The course discusses the basic modeling and analysis techniques in electrical energy systems including generation, transmission, and distribution systems. It covers the power system fundamentals consisting of 3-phase systems, complex and phasor quantities, single line diagrams and Per Unit system of calculations. Concept of complex power and active and reactive power are covered and reactive power compensation is also described. Functional descriptions and modeling of generators, transformers, transmission lines, motors and other loads are discussed. Various types of renewable energy systems are also introduced and basic functionality of the critical components of these systems are discussed. ",
+        [
+            "EECS 2200"
+        ]
+    ],
+    [
+        "EECS 3900",
+        "Computer Science Internship Work Term",
+        "This experiential education course reflects the work term component of the Technology Internship Program (TIP). Qualified Honours students gain relevant work experience as an integrated complement to their academic studies, reflected in the requirements of a learning agreement and work term report. Students are required to register in this course for each four month work term, with the maximum number of work term courses being four (i.e. 16 months). Students in this course receive assistance from the Career Centre prior to and during their internship, and are also assigned a Faculty Supervisor/Committee. ",
+        [
+            "EECS 3311",
+            "CSE 3311",
+            "CSE 3311",
+            "EECS 3900",
+            "CSE 3900",
+            "CSE 3900"
+        ]
+    ],
+    [
+        "EECS 3910",
+        "Industry Practicum",
+        "This course is only available to students in the Industry Partnership Stream of the Computer Science Honours BSc (enrollment by permission). Students in the stream may enroll in the course during a term for which they are employed by the industrial partner. The learning outcomes of the course will be approved by the instructor prior to enrollment. ",
+        []
+    ],
+    [
+        "EECS 3911",
+        "Industry Practicum",
+        "This course is only available to students in the Industry Partnership Stream of the Computer Science Honours BSc (enrollment by permission). Students in the stream may enroll in the course during a term for which they are employed by the industrial partner. The learning outcomes of the course will be approved by the instructor prior to enrollment. ",
+        []
+    ],
+    [
+        "EECS 3980",
+        "Computer Security Internship Work Term",
+        "This experiential education course reflects the work term component of the Technology Internship Program (TIP). Qualified Honours students gain relevant work experience as an integrated complement to their academic studies, reflected in the requirements of a learning agreement and work term report. Students are required to register in this course for each four month work term, with the maximum number of work term courses being four (i.e. 16 months). Students in this course receive assistance from the Career Centre prior to and during their internship, and are also assigned a Faculty Supervisor/Committee. ",
+        [
+            "EECS 3482",
+            "CSE 3482",
+            "CSE 3482",
+            "EECS 3980",
+            "CSE 3980",
+            "CSE 3980"
+        ]
+    ],
+    [
+        "EECS 4070",
+        "Directed Studies",
+        "By special arrangement, a student may carry out independent study in a specialized area of computer science or engineering under the direction of a member of the EECS department. The student will be expected to meet regularly with the supervisor throughout the term. In addition to regular meetings with the supervisor, a student is expected to do about 10 hours per week on reading and preparation of assigned work. ",
+        [
+            "EECS 2030",
+            "EECS 1030"
+        ]
+    ],
+    [
+        "EECS 4080",
+        "Computer Science Project",
+        "A project in computer science chosen in consultation with, and supervised by, a member of the department. ",
+        [
+            "EECS 2030",
+            "EECS 1030"
+        ]
+    ],
+    [
+        "EECS 4088",
+        "Computer Science Capstone Project",
+        "A project in computer science chosen in consultation with, and supervised by, a member of the department. ",
+        [
+            "EECS 2030",
+            "EECS 1030"
+        ]
+    ],
+    [
+        "EECS 4090",
+        "Software Development Capstone Project",
+        "Large-scale project involving all stages of the software development life cycle: requirements, analysis and design, implementation, testing and delivery. Team work. Open only to students in the Software Development Stream. ",
+        [
+            "EECS 3311",
+            "EECS 3101",
+            "EECS 3342",
+            "EECS 4312",
+            "EECS 4313"
+        ]
+    ],
+    [
+        "EECS 4101",
+        "Advanced Data Structures",
+        "Amortized and worst-case analysis of data structures. Data structuring paradigms: self-adjustment and persistence. Lists: self-adjustment with the move-to-front heuristic. Search trees: splay trees, finger search trees. Heaps: skew heaps, Fibonacci heaps. Union-find trees. Link-and-cut trees. Multidimensional data structures and dynamization. Integrated with: GS/CSE 5101 3.00. ",
+        [
+            "EECS 2030",
+            "EECS 1030",
+            "EECS 2001",
+            "EECS 3101",
+            "CSE 4101",
+            "CSE 4101"
+        ]
+    ],
+    [
+        "EECS 4111",
+        "Automata and Computability",
+        "Introduction to more advanced topics in theoretical foundations of computer science, including the study of formal languages and automata, formal models of computation, and computational complexity measures. Integrated with: GS/CSE 5111 3.00. ",
+        [
+            "EECS 2030",
+            "EECS 1030",
+            "EECS 2001",
+            "EECS 3101",
+            "CSE 4111"
+        ]
+    ],
+    [
+        "EECS 4141",
+        "Introduction to Quantum Computing",
+        "This course presents an overview of the quantum computing field without assuming any prior exposure to quantum mechanics. Drawing parallels between quantum and classical computing, the course covers the physical layer briefly before moving to quantum gates, the circuit model, and quantum algorithms. Quantum information is covered through applications. ",
+        [
+            "MATH 1025",
+            "EECS 2021",
+            "EECS 3101"
+        ]
+    ],
+    [
+        "EECS 4161",
+        "Mathematics of Cryptography",
+        "Probability, information theory and number theory and applications to cryptography. Classical codes such as Caesar shift, Vigenere, ADFGVX, rectangular substitution, and others. Other topics: comma free codes, perfect secrecy, index of coincidence, public key systems, primality testing and factorization algorithms. ",
+        [
+            "EECS 3101"
+        ]
+    ],
+    [
+        "EECS 4201",
+        "Computer Architecture",
+        "The internal structure and design ideas embodied in many computers and the techniques for evaluating them. Fast arithmetic algorithms, memory system designs, pipeline techniques, input-output subsystems and parallel computing structures. Future trends in computer architecture. ",
+        [
+            "EECS 3201",
+            "EECS 3221",
+            "CSE 4201"
+        ]
+    ],
+    [
+        "EECS 4214",
+        "Digital Communications",
+        "Introduces fundamental principles underlying design and analysis of digital communication systems. Develops mathematical/physical understanding from the information source through the transmitter, channel, receiver, and information sink. Topics include baseband transmission, matched filtering, modulation, channel coding, and spread spectrum. ",
+        [
+            "EECS 3213",
+            "MATH 2030",
+            "MATH 2930",
+            "EECS 3451",
+            "EECS 3602",
+            "ESSE 4020",
+            "MATH 4830",
+            "PHYS 4060",
+            "PHYS 4250",
+            "CSE 4214"
+        ]
+    ],
+    [
+        "EECS 4215",
+        "Mobile Communications",
+        "Provides an overview of the latest developments and trends in wireless mobile communications, and addresses the impact of wireless transmission and user mobility on the design and management of wireless mobile systems. ",
+        [
+            "EECS 2030",
+            "EECS 1030",
+            "EECS 3213"
+        ]
+    ],
+    [
+        "EECS 4312",
+        "Software Engineering Requirements",
+        "This course deals with the elicitation, specification and analysis of software requirements and provides a critical description of available methods and tools, and practical exercises on applying these methods and tools to realistic problems. Three lecture hours per week. One laboratory hour per week. One term. Three credits. ",
+        [
+            "EECS 2030",
+            "EECS 1030",
+            "EECS 3311"
+        ]
+    ],
+    [
+        "EECS 4313",
+        "Software Engineering Testing",
+        "An introduction to systematic methods of testing and verification, covering a range of static and dynamic techniques and their use within the development process; emphasizes the view that design should be carried out with verification in mind to achieve overall project goals. ",
+        [
+            "EECS 2030",
+            "EECS1030",
+            "EECS 3311",
+            "CSE 4313"
+        ]
+    ],
+    [
+        "EECS 4314",
+        "Advanced Software Engineering",
+        "Advanced software engineering methods, processes and measurements (from requirements through to system evolution) for managing and delivering reliable software on time and within budget. Understanding the different types of systems and their associated technical, ethical and professional issues. ",
+        [
+            "EECS 2030",
+            "EECS 1030",
+            "EECS 3311"
+        ]
+    ],
+    [
+        "EECS 4315",
+        "Mission-Critical Systems",
+        "Theory and practical tools underlying deductive and algorithmic methods for ensuring the safety and correctness of mission critical systems (e.g. medical systems, nuclear reactors and train systems) with the practical ability to use verification tools to perform software certification. ",
+        [
+            "EECS 2030",
+            "EECS 1030",
+            "EECS 3342"
+        ]
+    ],
+    [
+        "EECS 4401",
+        "Artificial Intelligence",
+        "This is a second course in Artificial intelligence that covers selected topics in this area such as: reasoning about action and planning, uncertain and fuzzy reasoning, knowledge representation, automated reasoning, non-monotonic reasoning and answer set programming, ontologies and description logic, local search methods, Markov decision processes, autonomous agents and multi-agent systems, machine learning, reasoning about beliefs and goals, and expert systems. ",
+        [
+            "EECS 2030",
+            "EECS 1030",
+            "EECS 3401"
+        ]
+    ],
+    [
+        "EECS 4404",
+        "Introduction to Machine Learning and Pattern Recognition",
+        "Machine learning is the study of algorithms that learn how to perform a task from prior experience. This course introduces the student to machine learning concepts and techniques applied to pattern recognition problems in a diversity of application areas. ",
+        [
+            "EECS 2030",
+            "EECS 1030",
+            "MATH 2030",
+            "MATH 2930",
+            "MATH 1131"
+        ]
+    ],
+    [
+        "EECS 4411",
+        "Database Management Systems",
+        "A study of principles of database management systems. A thorough analysis of theory of normal, relational algebra and calculus and query languages based on these concepts. Other topics: security and integrity issues, concurrency control, distributed systems, query optimization. ",
+        [
+            "EECS 2011",
+            "EECS 2021",
+            "EECS 2031",
+            "EECS 2032",
+            "EECS 3421"
+        ]
+    ],
+    [
+        "EECS 4412",
+        "Data Mining",
+        "Introduces and presents basic concepts of data mining, data mining techniques, models and applications. Topics include association rule mining, classification models, sequential pattern mining and clustering. ",
+        [
+            "EECS 2030",
+            "EECS 1030",
+            "EECS 3101",
+            "EECS 3421",
+            "MATH 2030",
+            "MATH 2930",
+            "MATH 1131",
+            "CSE 4412"
+        ]
+    ],
+    [
+        "EECS 4413",
+        "Building E-Commerce Systems",
+        "A study of the technical infrastructure that underlies Electronic Commerce on the Internet. The foundational concepts are presented through a series of projects that use an industrial-strength framework on the server side, standard-compliant technologies on the client side, and a variety of messaging protocols on the network side. Best practices, security concerns, and performance issues are emphasized throughout. ",
+        [
+            "EECS 2030",
+            "EECS 1030",
+            "CSE 4413"
+        ]
+    ],
+    [
+        "EECS 4414",
+        "Information Networks",
+        "Information networks are effective representations of pairwise relationships between objects. Examples include technological networks (e.g., World Wide Web), online social networks (e.g., Facebook), and biological networks (e.g., Protein-to-Protein interactions). The study of information networks is an emerging discipline of immense importance that combines graph theory, probability and statistics, data mining and analysis, and computational social science. This course provides students with both theoretical knowledge and practical experience of the field by covering models and algorithms of information networks and their basic properties. In addition, analysis of information networks provides the means to explore large, complex data coming from vastly diverse sources and to inform computational problems and better decisions. Topics include: basic graph theory, network measurements, network models, community detection, graph partitioning, link analysis, link prediction, information cascades & epidemics, influence maximization, network ties, recommendation systems, mining graphs, and connections to problems in the social sciences and economics. ",
+        [
+            "EECS 3421",
+            "EECS 3101",
+            "MATH 2030",
+            "MATH 2930"
+        ]
+    ],
+    [
+        "EECS 4415",
+        "Big Data Systems",
+        "Storing, managing, and processing datasets are foundational to both computer science and data science. The enormous size of today's data sets and the specific requirements of modern applications necessitated the growth of a new generation of data management systems, where the emphasis is put on distributed and fault-tolerant processing. New programming paradigms have evolved, an abundance of information platforms offering data management and analysis solutions appeared and a number of novel methods and tools have been developed. This course introduces the fundamentals of big data storage, retrieval, and processing systems. As these fundamentals are introduced, exemplary technologies are used to illustrate how big data systems can leverage very large data sets that become available through multiple sources and are characterized by diverse levels of volume (terabytes; billion records), velocity (batch; real-time; streaming) and variety (structured; semi-structured; unstructured). The course aims to provide students with both theoretical knowledge and practical experience of the field by covering recent research on big data systems and their basic properties. Students consider both small and large datasets because both are equally important and justify different trade-offs. Topics include: software frameworks for distributed storage and processing of very large data sets, MapReduce programming model, querying of structured data sets, column stores, key-value stores, document stores, graph databases, distributed stream processing frameworks. ",
+        [
+            "EECS 3421",
+            "EECS 3101"
+        ]
+    ],
+    [
+        "EECS 4421",
+        "Introduction to Robotics",
+        "An introduction to robotic manipulators and autonomous vehicles. The course covers the kinematics and dynamics of manipulators and autonomous platforms, robot sensors and navigation. ",
+        [
+            "MATH 1025",
+            "MATH 1310",
+            "EECS 2031",
+            "CSE 4421"
+        ]
+    ],
+    [
+        "EECS 4422",
+        "Computer Vision",
+        "Fundamental concepts of Computer vision and including aspects of biological vision, image formation process, image processing, feature extraction and matching, 3-D parameter estimation, applications and statistical techniques. Twelve supervised laboratory hours. ",
+        [
+            "MATH1025",
+            "MATH1310",
+            "EECS2031",
+            "EECS 2032"
+        ]
+    ],
+    [
+        "EECS 4441",
+        "Human-Computer Interaction",
+        "Introduces the concepts and technology necessary to design, manage and implement interactive software. Students work in small groups and learn how to design user interfaces, how to realize them and how to evaluate the end result. Both design and evaluation are emphasized. ",
+        [
+            "EECS 2030",
+            "EECS 1030",
+            "EECS 3461",
+            "CSE 4441"
+        ]
+    ],
+    [
+        "EECS 4443",
+        "Mobile User Interfaces",
+        "The design and implementation of user interfaces for touchscreen devices and tablet computers. Students develop user interfaces that include touch, multi-touch, vibration, device motion, position, and orientation, environment sensing, video capture, and audio capture. Twelve Supervised laboratory hours that emphasize these topics in a practical manner. ",
+        [
+            "EECS 2030",
+            "EECS 1030",
+            "EECS 3461"
+        ]
+    ],
+    [
+        "EECS 4452",
+        "Digital Signal Processing: Theory and Applications",
+        "Fundamental digital signal processing. Inner product, Hilbert space, orthogonality principle, discrete-time Fourier transform, discrete Fourier transform, z-transform, multirate systems, sampling and interpolation. ",
+        [
+            "EECS 3451",
+            "EECS 3602"
+        ]
+    ],
+    [
+        "EECS 4461",
+        "Hypermedia and Multimedia Technology",
+        "Design and application of computer systems which provide information resources for learning, online-help, conceptual exploration, visualization and entertainment; e.g. hypertext/hypermedia, networked information-servers, systems for collaborative work, and \"virtual reality\". One or two topics are discussed in depth using current research literature. ",
+        [
+            "EECS 2030",
+            "EECS 1030",
+            "EECS 3461",
+            "CSE 4461"
+        ]
+    ],
+    [
+        "EECS 4480",
+        "Computer Security Project",
+        "This is a capstone project course for computer security students. The students engage in a significant research and/or development project that has major computer security considerations. ",
+        []
+    ],
+    [
+        "EECS 4481",
+        "Computer Security Laboratory",
+        "Provides a thorough understanding of the technical aspects of computer security. It covers network, operating systems, and application software security. Computer laboratory projects provide exposure to various tools in a hands-on setting. ",
+        [
+            "EECS 2030",
+            "EECS 1030",
+            "EECS 3214"
+        ]
+    ],
+    [
+        "EECS 4482",
+        "Network Security and Forensics",
+        "This course provides a comprehensive coverage of theoretical and practical aspects of network security and forensics. The emphasis is on the limitations and attacks against network protocols and architectures most widely used in practice, as well as the best known detection, prevention and remediation techniques against these attacks. The course also has a strong emphasis on hands-on learning either by using already existing real-world tools or by developing new custom software. Familiarity with the TCP/IP protocol suite and basic computer networking concepts is required. ",
+        [
+            "EECS 3213",
+            "EECS 3214",
+            "EECS 3482"
+        ]
+    ],
+    [
+        "EECS 4491",
+        "Simulation and Animation for Computer Games",
+        "Introduction to simulation and animation techniques used in computer games, with a focus on the algorithms and methods that support moving objects in the virtual environments. ",
+        [
+            "EECS 2030",
+            "EECS 1030",
+            "EECS 3431",
+            "MATH 1310"
+        ]
+    ],
+    [
+        "EECS 4611",
+        "Analog Integrated Circuit Design",
+        "This course presents analog circuit principles for the analysis and design of high-performance circuits in modern technologies. Its techniques enable the realization of wide-band amplifiers, low-noise amplifiers, operational amplifiers, and feedback amplifiers. Advanced computer simulation, and physical layout are presented.",
+        [
+            "EECS 3611"
+        ]
+    ],
+    [
+        "EECS 4613",
+        "Power Electronics",
+        "The objective of this course is to understand the basic operating principles of power conversion using advanced electronic devices. The structure and characteristics of several switching devices are reviewed. Basic power electronic converters and inverters such as AC/DC rectifiers, DC/DC switch mode converters and voltage source DC/AC inverters are studied. Resonant DC/DC converters are introduced. Computation of circuit quantities such as average and RMS value, average power, power factor, total harmonics distortion and power efficiency are also studied. ",
+        [
+            "EECS 2210",
+            "EECS 3603"
+        ]
+    ],
+    [
+        "EECS 4622",
+        "Introduction to Energy Systems",
+        "Introduction to basic modeling and analysis techniques in electricity generation, transmission and distribution. Introduction to 3-phase systems, single line diagrams and Per Unit system of calculations. Functional descriptions and modeling of generators, transformers, transmission lines, motors and other loads are discussed. Load Flow study, Gauss-Seidel and Newton-Raphson iterative methods; Symmetrical fault analysis, symmetrical components, unsymmetrical fault analysis; introduction of protection relays and Circuit Breakers; power systems stability analysis; introduction to distribution systems and distributed generation. ",
+        [
+            "EECS 2200",
+            "EECS 3603",
+            "PHY 2020"
+        ]
+    ],
+    [
+        "EECS 4640",
+        "Medical Imaging Techniques: Principles and Applications",
+        "This course introduces principles of medical imaging, focusing on major imaging modalities including ultrasound, X-ray radiography, computed tomography, magnetic resonance imaging, and nuclear medicine imaging. The course covers the physics and engineering aspects of how various imaging signals are acquired and processed in order to form medically useful images. The course applies the classical knowledge of engineering physics and signals and systems techniques to the development of various medical imaging technologies. Basic mathematical tools required to understand how the tomographic imaging modalities work are presented. Sources of image noise and other causes of artifacts are introduced, and the mechanisms that govern the achievable resolution of the different modalities are discussed. The course also covers essentials of medical image analysis. The students will learn the fundamentals, basic design and applications of medical imaging systems, imaging signal processing and medical image analysis. Background in signals and systems, and basic knowledge of physics are required before taking the course. Integrated with: GS/EECS 5640 3.00. ",
+        [
+            "EECS 2602",
+            "EECS 3451"
+        ]
+    ],
+    [
+        "EECS 4700",
+        "Digital Media Project",
+        "This course involves the completion of a significant body of work in the area of Digital Media. The project will normally be a team project involving the development and analysis of a digital media work potentially having elements of interactivity, animation, 3-D graphics, and sound for example. The project will be presented at a public workshop towards the end of the year. ",
+        []
+    ],
+    [
+        "EECS 4910",
+        "Industry Practicum",
+        "This course is only available to students in the Industry Partnership Stream of the Computer Science Honours BSc (enrollment by permission). Students in the stream may enroll in the course during a term for which they are employed by the industrial partner. The learning outcomes of the course will be approved by the instructor prior to enrollment. ",
+        []
+    ],
+    [
+        "EECS 4911",
+        "Industry Practicum",
+        "This course is only available to students in the Industry Partnership Stream of the Computer Science Honours BSc (enrollment by permission). Students in the stream may enroll in the course during a term for which they are employed by the industrial partner. The learning outcomes of the course will be approved by the instructor prior to enrollment. ",
+        []
+    ]
+]
