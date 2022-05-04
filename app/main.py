@@ -207,7 +207,7 @@ def report_page():
 
 @app.route('/bugs')
 def bug_page():
-    with open('bugsList.json') as json_file:
+    with open('app/bugsList.json') as json_file:
         bugs = json.load(json_file)
     
     return render_template("bugs.html", bugsList = bugs)
